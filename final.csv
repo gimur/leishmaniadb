@@ -12,31 +12,22 @@ Putumayo,0.685,-76.60444444,Dermal scrape,Human,PCR,L. braziliensis
 Caquetá,1.004233333,-75.13583333,Dermal scrape,Human,PCR,L. panamensis
 Putumayo,1.029444444,-76.61638889,Dermal scrape,Human,PCR,L. panamensis
 Vaupés,1.250277778,-70.235,Dermal scrape,Human,PCR,L. braziliensis
-Nariño,1.29,-77.357,Dermal scrape,No specific,PCR,L. panamensis
-Nariño,1.29,-77.357,Aspiration puncture,Human,PCR,L. guyanensis
-Nariño,1.29,-77.357,Biopsy ,No specific,PCR,L. braziliensis
-Nariño,1.33438,-77.5937,Biopsy ,Human,MLEE,L. mexicana
-Nariño,1.336666667,-71.95111111,Dermal scrape,Human,PCR,L. braziliensis
-Nariño,1.416667,-77.566667,Aspiration puncture,Human,MLEE,L. mexicana
-Caquetá,1.418333333,-75.8775,Dermal scrape,Human,PCR,L. guyanensis
-Nariño,1.457777778,-77.10777778,Dermal scrape,Human,PCR,L. panamensis
-Nariño,1.473888889,-77.08083333,Dermal scrape,Human,PCR,L. panamensis
-Nariño,1.50575,-75.39027778,Dermal scrape,Human,PCR,L. braziliensis
-Caquetá,1.61438,-75.606232,Aspiration puncture,Human,PCR,L. panamensis
-Caquetá,1.61438,-75.606232,Aspiration puncture,Human,PCR,L. mexicana
-Caquetá,1.616666667,-75.6,Dermal scrape,Human,PCR,L. panamensis
-Nariño,1.78709,-78.790504,buccal swabs,Human,PCR,L. panamensis
-Nariño,1.787434,-78.791265,Blood,Human,PCR,L. panamensis
-Nariño,1.787434,-78.791265,Blood,Human,PCR,L. panamensis
-Nariño,1.787434,-78.791265,Biopsy ,Didelphis marsupialis,MLEE,L. infantum
-Nariño,1.787434,-78.791265,Biopsy ,Human,PCR,L. braziliensis
-Nariño,1.79861,-78.815559,Blood,Human,PCR,L. panamensis
-Nariño,1.79861,-78.815559,Blood,Human,PCR,L. guyanensis
 Nariño,1.79861,-78.81556,Biopsy ,Didelphis marsupialis,MLEE,L. infantum
 Nariño,1.79861,-78.81556,Biopsy ,Didelphis marsupialis,MLEE,L. infantum
 Nariño,1.79861,-78.81556,Biopsy ,common opossum,MLEE,L. infantum
+Nariño,1.79861,-78.815559,Blood,Human,PCR,L. panamensis
+Nariño,1.79861,-78.815559,Blood,Human,PCR,L. guyanensis
 Nariño,1.79861,-78.815559,Blood,Human,PCR,L. braziliensis
+Caquetá,1.418333333,-75.8775,Dermal scrape,Human,PCR,L. guyanensis
 Nariño,1.79861,-78.815559,Blood,Human,PCR,L. braziliensis
+Nariño,1.787434,-78.791265,Blood,Human,PCR,L. panamensis
+Nariño,1.787434,-78.791265,Blood,Human,PCR,L. panamensis
+Caquetá,1.61438,-75.606232,Aspiration puncture,Human,PCR,L. panamensis
+Caquetá,1.61438,-75.606232,Aspiration puncture,Human,PCR,L. mexicana
+Caquetá,1.616666667,-75.6,Dermal scrape,Human,PCR,L. panamensis
+Nariño,1.787434,-78.791265,Biopsy ,Didelphis marsupialis,MLEE,L. infantum
+Nariño,1.787434,-78.791265,Biopsy ,Human,PCR,L. braziliensis
+Nariño,1.78709,-78.790504,buccal swabs,Human,PCR,L. panamensis
 Nariño,1.804758,-78.765424,Dermal scrape,Human,MLEE,L. panamensis
 Nariño,1.804758,-78.765424,Dermal scrape,Human,MLEE,L. guyanensis
 Nariño,1.804758,-78.765424,Biopsy ,Human,MLEE,L. mexicana
@@ -47,7 +38,16 @@ Nariño,1.806666667,-78.76472222,Dermal scrape,Human,PCR,L. braziliensis
 Nariño,1.806667,-78.764722,Biopsy ,Human,Southern Blot,L. panamensis
 Nariño,1.806667,-78.764722,Biopsy ,Human,Southern Blot,L. guyanensis
 Nariño,1.806667,-78.764722,Biopsy ,Dog,Monoclonal antibodies,L. braziliensis
+Nariño,1.33438,-77.5937,Biopsy ,Human,MLEE,L. mexicana
+Nariño,1.416667,-77.566667,Aspiration puncture,Human,MLEE,L. mexicana
+Nariño,1.29,-77.357,Dermal scrape,No specific,PCR,L. panamensis
+Nariño,1.29,-77.357,Aspiration puncture,Human,PCR,L. guyanensis
+Nariño,1.29,-77.357,Biopsy ,No specific,PCR,L. braziliensis
 Nariño,1.933888889,-77.30527778,Dermal scrape,Human,PCR,L. braziliensis
+Nariño,1.457777778,-77.10777778,Dermal scrape,Human,PCR,L. panamensis
+Nariño,1.473888889,-77.08083333,Dermal scrape,Human,PCR,L. panamensis
+Caquetá,1.50575,-75.39027778,Dermal scrape,Human,PCR,L. braziliensis
+Guaviare,1.336666667,-71.95111111,Dermal scrape,Human,PCR,L. braziliensis
 Cauca,1.996263,-77.184102,Biopsy ,Human,IFI,L. panamensis
 Cauca,1.996263,-77.184102,Biopsy ,Human,IFI,L. guyanensis
 Cauca,1.996263,-77.184102,Biopsy ,Human,IFI,L. braziliensis
@@ -63,8 +63,8 @@ Cauca,2.43823,-76.613159,Aspiration puncture,Human,PCR,L. mexicana
 Guaviare,2.480555556,-72.95916667,Dermal scrape,Human,PCR,L. braziliensis
 Guaviare,2.565277778,-72.63861111,Dermal scrape,Human,PCR,L. mexicana
 Guaviare,2.565277778,-72.63861111,Dermal scrape,Human,PCR,L. braziliensis
-Guaviare,2.567,-72.633,Aspiration puncture,Human,PCR,L. panamensis
-Guaviare,2.567,-72.633,Aspiration puncture,Human,PCR,L. guyanensis
+Guaviare,2.5,-72.6,Aspiration puncture,Human,PCR,L. panamensis
+Guaviare,2.56,-72.63,Aspiration puncture,Human,PCR,L. guyanensis
 Guaviare,2.567,-72.633,Aspiration puncture,Human,PCR,L. braziliensis
 Guaviare,2.572777778,-72.64583333,Dermal scrape,Human,PCR,L. mexicana
 Guaviare,2.572777778,-72.64583333,Dermal scrape,Human,PCR,L. braziliensis
@@ -73,30 +73,30 @@ Guaviare,2.572777778,-72.64583333,Dermal scrape,Human,PCR,L. braziliensis
 Guaviare,2.572777778,-72.64583333,Dermal scrape,Human,PCR,L. braziliensis
 Guaviare,2.572777778,-72.64583333,Dermal scrape,Human,PCR,L. braziliensis
 Guaviare,2.572777778,-72.64583333,Dermal scrape,Human,PCR,L. braziliensis
-Guaviare,2.623333333,-72.75916667,Dermal scrape,Human,PCR,L. braziliensis
+Meta,2.623333333,-72.75916667,Dermal scrape,Human,PCR,L. braziliensis
 Guianía,2.627222222,-68.05611111,Dermal scrape,Human,PCR,L. braziliensis
 Huila,2.741944444,-75.5675,Insect,Reservoir,PCR,L. infantum
-Guaviare,2.889166667,-72.12555556,Dermal scrape,Human,PCR,L. panamensis
-Guaviare,2.889166667,-72.12555556,Dermal scrape,Human,PCR,L. braziliensis
+Meta,2.889166667,-72.12555556,Dermal scrape,Human,PCR,L. panamensis
+Guaviare,2.88923,-72.12,Dermal scrape,Human,PCR,L. braziliensis
 Guaviare,2.889166667,-72.12555556,Dermal scrape,Human,PCR,L. braziliensis
 Huila,2.891666667,-75.4375,Dermal scrape,Reservoir,PCR,L. panamensis
 Huila,2.891666667,-75.4375,Dermal scrape,Reservoir,PCR,L. panamensis
-Guianía,2.891944444,-72.13361111,Dermal scrape,Human,PCR,L. braziliensis
+Meta,2.891944444,-72.13361111,Dermal scrape,Human,PCR,L. braziliensis
 Huila,2.92504,-75.2897,Aspiration puncture,Human,PCR,L. panamensis
 Huila,2.92504,-75.2897,Blood,Dog,ELISA,L. infantum
 Huila,2.927222222,-75.28194444,Dermal scrape,Human,PCR,L. braziliensis
 Huila,2.9273,-75.281891,Blood,Human,IFI,L. infantum
-Caquetá,2.938333333,-73.20833333,Dermal scrape,Human,PCR,L. panamensis
-Caquetá,2.938333333,-73.20833333,Dermal scrape,Human,PCR,L. braziliensis
+Meta,2.938333333,-73.20833333,Dermal scrape,Human,PCR,L. panamensis
+Meta,2.93,-73.2,Dermal scrape,Human,PCR,L. braziliensis
 Huila,2.95,-75.282109,Blood,Dog,IFI,L. infantum
 Meta,2.969166667,-73.90055556,Dermal scrape,Human,PCR,L. panamensis
-Meta,3,-76.71666667,Dermal scrape,Human,PCR,L. braziliensis
+Cauca,3,-76.71666667,Dermal scrape,Human,PCR,L. braziliensis
 Meta,3.022222222,-73.40444444,Dermal scrape,Human,PCR,L. mexicana
 Meta,3.022222222,-73.40444444,Dermal scrape,Human,PCR,L. braziliensis
 Meta,3.123888889,-73.75138889,Dermal scrape,Human,PCR,L. panamensis
 Meta,3.123888889,-73.75138889,Dermal scrape,Human,PCR,L. guyanensis
 Meta,3.123888889,-73.75138889,Dermal scrape,Human,PCR,L. braziliensis
-Casanare,3.173333333,-74.96583333,Dermal scrape,Human,PCR,L. braziliensis
+Huila,3.173333333,-74.96583333,Dermal scrape,Human,PCR,L. braziliensis
 Meta,3.240555556,-74.35416667,Dermal scrape,Human,PCR,L. infantum
 Meta,3.240833333,-74.35361111,Dermal scrape,Human,PCR,L. panamensis
 Meta,3.240833333,-74.35361111,Dermal scrape,Human,PCR,L. guyanensis
@@ -116,51 +116,52 @@ Meta,3.373611111,-73.87666667,Dermal scrape,Human,PCR,L. braziliensis
 Valle del Cauca,3.43722,-76.522499,Aspiration puncture,Human,PCR,L. mexicana
 Guianía,3.49,-69.81222222,Dermal scrape,Human,PCR,L. braziliensis
 Valle del Cauca,3.508333,-76.521667,Biopsy ,Human,MLEE,L. braziliensis
-Tolima,3.529166667,-75.64472222,Dermal scrape,Human,PCR,L. panamensis
-Tolima,3.529166667,-75.64472222,Dermal scrape,Human,PCR,L. guyanensis
-Antioquia,3.538611111,-73.70055556,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,3.538611111,-73.70055556,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,3.538611111,-73.70055556,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,3.538611111,-73.70055556,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,3.538611111,-73.70055556,Dermal scrape,Human,PCR,L. braziliensis
-Tolima,3.716667,-75.5,Biopsy ,Dog,PCR,L. guyanensis
-Tolima,3.716667,-75.5,Biopsy ,Dog,ELISA,L. guyanensis
-Tolima,3.716667,-75.5,Biopsy ,Dog,PCR,L. braziliensis
-Tolima,3.716667,-75.5,Biopsy ,Dog,PCR,L. braziliensis
-Tolima,3.723611111,-75.48472222,Dermal scrape,Human,PCR,L. panamensis
-Tolima,3.723827,-75.483979,Biopsy ,Human,MLEE,L. panamensis
-Tolima,3.723827,-75.483979,Biopsy ,Human,MLEE,L. panamensis
-Tolima,3.723827,-75.483979,Biopsy ,Human,MLEE,L. guyanensis
+Cundinamarca,4.330833333,-73.28416667,Dermal scrape,Human,PCR,L. panamensis
+Tolima,4.204722222,-74.64083333,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,8.425833333,-76.78388889,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.933055556,-76.71638889,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.669722222,-76.68138889,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,7.669722222,-76.68138889,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,7.758055556,-76.65527778,Dermal scrape,Human,PCR,L. panamensis
+Tolima,5.2,-74.886663,Insect,Insect,MLEE,L. lainsoni
+Tolima,5.2,-74.886663,Insect,Insect,MLEE,L. colombiensis
+Tolima,5.2,-74.886663,Blood,Human,MLEE,L. colombiensis
+Tolima,5.2,-74.886663,Insect,Insect,MLEE,L. braziliensis
+Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
+Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
+Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
+Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
 Valle del Cauca,3.724444,-76.267222,Aspiration puncture,Human,MLEE,L. braziliensis
-Tolima,3.73,-75.156915,Blood,Human,IFI,L. infantum
-Tolima,3.73,-75.156915,Blood,Dog,IFI,L. infantum
+Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
+Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
 Meta,3.733333333,-73.25,Dermal scrape,Human,PCR,L. panamensis
-Tolima,3.79,-75.197427,Blood,Human,ELISA,L. infantum
-Tolima,3.7975,-75.19388889,Dermal scrape,Reservoir,PCR,L. amazonensis
-Tolima,3.799,-75.195,Blood,Dog,IFI,L. infantum
-Tolima,3.799339,-75.194595,Blood,Dog,IFI,L. infantum
-Tolima,3.799339,-75.194595,Blood,Dog,IFI,L. infantum
-Tolima,3.819167,-75.198333,Biopsy ,Human,ELISA,L. infantum
-Caquetá,3.841944,-75.565833,Insect,Insect,PCR,L. guyanensis
+Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
+Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
+Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
+Tolima,4.966666667,-74.9,Dermal scrape,Human,PCR,L. panamensis
+Tolima,5.133333333,-74.95,Dermal scrape,Human,PCR,L. panamensis
+Tolima,5.133333333,-74.95,Dermal scrape,Human,PCR,L. panamensis
+Tolima,5.133333333,-74.95,Dermal scrape,Human,PCR,L. panamensis
 Guainía,3.870833333,-67.92111111,Dermal scrape,Human,PCR,L. panamensis
 Guianía,3.870833333,-67.92111111,Dermal scrape,Human,PCR,L. braziliensis
 Valle del Cauca,3.904445,-76.454461,Biopsy ,"opossums,rodents and rabbit ",PCR,L. braziliensis
 Meta,3.988888889,-73.76472222,Dermal scrape,Human,PCR,L. braziliensis
 Valle del Cauca,3.99639,-76.9744,Biopsy ,Sloth bear,MLEE,L. braziliensis
+Meta,4.312977,-72.083573,Biopsy ,Human,PCR,L. panamensis
 Vichada,4,-69.932778,Blood,Dog,IFI,L. panamensis
-Vichada,4,-69.932778,Blood,Dog,IFI,L. braziliensis
 Meta,4.084444444,-72.95583333,Dermal scrape,Human,PCR,L. panamensis
 Meta,4.084444444,-72.95583333,Dermal scrape,Human,PCR,L. mexicana
 Meta,4.084444444,-72.95583333,Dermal scrape,Human,PCR,L. braziliensis
 Meta,4.089722222,-72.96194444,Dermal scrape,Human,PCR,L. panamensis
 Meta,4.089722222,-72.96194444,Dermal scrape,Human,PCR,L. braziliensis
-Tolima,4.092517,-75.154538,Blood,Dog,IFI,L. infantum
-Tolima,4.092517,-75.154538,Biopsy ,Human,IFI,L. infantum
+Tolima,5.030555556,-75.11611111,Dermal scrape,Human,PCR,L. panamensis
+Tolima,5.030555556,-75.11611111,Dermal scrape,Human,PCR,L. panamensis
 Meta,4.1425,-73.62944444,Dermal scrape,Human,PCR,L. lainsoni
 Meta,4.15,-73.633,Aspiration puncture,Human,PCR,L. panamensis
 Meta,4.15,-73.633,Aspiration puncture,Human,PCR,L. braziliensis
-Tolima,4.204722222,-74.64083333,Dermal scrape,Human,PCR,L. braziliensis
-Huila,4.231666667,-73.50805556,Dermal scrape,Human,PCR,L. amazonensis
+Tolima,4.092517,-75.154538,Blood,Dog,IFI,L. infantum
+Meta,4.231666667,-73.50805556,Dermal scrape,Human,PCR,L. amazonensis
+Tolima,4.092517,-75.154538,Biopsy ,Human,IFI,L. infantum
 Cundinamarca,4.274688,-74.774048,Biopsy ,common opossum,MLEE,L. infantum
 Cundinamarca,4.280833333,-74.76472222,Insect,Insect,PCR,L. panamensis
 Cundinamarca,4.280833333,-74.76472222,Dermal scrape,Human,PCR,L. mexicana
@@ -170,104 +171,103 @@ Cundinamarca,4.280833333,-74.76472222,Insect,Insect,PCR,L. infantum
 Cundinamarca,4.280833333,-74.76472222,Insect,Insect,PCR,L. infantum
 Cundinamarca,4.280833333,-74.76472222,Insect,Insect,PCR,L. braziliensis
 Cundinamarca,4.280833333,-74.76472222,Insect,Insect,PCR,L. braziliensis
+Meta,4.312977,-72.083573,Biopsy ,Human,PCR,L. braziliensis
+Vichada,4,-69.932778,Blood,Dog,IFI,L. braziliensis
+Meta,4.313333333,-72.08166667,Dermal scrape,Human,PCR,L. braziliensis
+Meta,4.314166667,-72.0825,Dermal scrape,Human,PCR,L. braziliensis
+Tolima,3.73,-75.156915,Blood,Human,IFI,L. infantum
 Cundinamarca,4.3,-74.7,Blood,Dog,ELISA,L. infantum
-Casanare,4.312977,-72.083573,Biopsy ,Human,PCR,L. braziliensis
-Vichada,4.312977,-72.083573,Biopsy ,Human,PCR,L. panamensis
-Vichada,4.313333333,-72.08166667,Dermal scrape,Human,PCR,L. braziliensis
-Vichada,4.314166667,-72.0825,Dermal scrape,Human,PCR,L. braziliensis
-Tolima,4.330833333,-73.28416667,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,4.458333333,-74.63444444,Dermal scrape,Human,PCR,L. infantum
+Cundinamarca,5.066944444,-74.595,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.748055556,-74.56305556,Dermal scrape,Human,PCR,L. panamensis
+Vichada,4.445555556,-69.79888889,Dermal scrape,Human,PCR,L. panamensis
+Vichada,4.446111111,-69.79555556,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.748055556,-74.56305556,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.748055556,-74.56305556,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.748055556,-74.56305556,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.873888889,-74.5625,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.873888889,-74.5625,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.553611111,-74.53944444,Dermal scrape,Human,PCR,L. infantum
 Cundinamarca,4.437222222,-74.52166667,Dermal scrape,Human,PCR,L. panamensis
 Cundinamarca,4.437222222,-74.52166667,Dermal scrape,Human,PCR,L. panamensis
 Cundinamarca,4.437222222,-74.52166667,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.43889,-75.232224,Biopsy ,Human,Monoclonal antibodies,L. panamensis
-Vichada,4.445555556,-69.79888889,Dermal scrape,Human,PCR,L. panamensis
-Vichada,4.446111111,-69.79555556,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.458333333,-74.63444444,Dermal scrape,Human,PCR,L. infantum
-Cundinamarca,4.553611111,-74.53944444,Dermal scrape,Human,PCR,L. infantum
-Cundinamarca,4.570868,-74.297333,Serum,Human,PCR,L. amazonensis
-Cundinamarca,4.570868,-74.297333,Serum,Dog,PCR,L. amazonensis
-Cundinamarca,4.570868,-74.297333,Serum,Dog,PCR,L. infantum
-Cundinamarca,4.570868,-74.297333,Serum,Human,PCR,L. braziliensis
-Cundinamarca,4.591612,-74.088864,Biopsy ,Human,Monoclonal antibodies,L. panamensis
-Cundinamarca,4.591612,-74.088864,Biopsy ,Human,Monoclonal antibodies,L. guyanensis
-Cundinamarca,4.591612,-74.088864,Biopsy ,Human,Monoclonal antibodies,L. braziliensis
-Cundinamarca,4.60971,-74.081749,Aspiration puncture,Human,PCR,L. panamensis
-Cundinamarca,4.60971,-74.081749,Aspiration puncture,Human,PCR,L. panamensis
-Cundinamarca,4.60971,-74.081749,Mucosal tissue,Human,PCR,L. guyanensis
-Cundinamarca,4.60971,-74.081749,Aspiration puncture,Human,PCR,L. mexicana
-Cundinamarca,4.60971,-74.081749,Mucosal tissue,Human,PCR,L. amazonensis
-Cundinamarca,4.60971,-74.081749,Mucosal tissue,Human,MLEE,L. braziliensis
-Cundinamarca,4.60971,-74.081749,Mucosal tissue,Human,MLEE,L. braziliensis
-Cundinamarca,4.618888889,-74.35388889,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.63,-74.4625,Biopsy ,Human,MLEE,L. mexicana
-Cundinamarca,4.630277778,-74.4625,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.630277778,-74.4625,Dermal scrape,Human,PCR,L. braziliensis
-Huila,4.64,-74.095176,Biopsy ,Human,IFI,L. infantum
-Cundinamarca,4.711,-74.072,Biopsy ,Human,MLEE,L. panamensis
-Cundinamarca,4.711,-74.072,Aspiration puncture,Human,PCR,L. guyanensis
-Cundinamarca,4.748055556,-74.56305556,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,4.748055556,-74.56305556,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.748055556,-74.56305556,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.748055556,-74.56305556,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.763333333,-74.46472222,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,4.763333333,-74.46472222,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,4.763333333,-74.46472222,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.763333333,-74.46472222,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.763333333,-74.46472222,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.78,-73.957332,Biopsy ,Human,MLEE,L. braziliensis
-Cundinamarca,4.851111111,-74.12611111,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.851111111,-74.12611111,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.873888889,-74.5625,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.873888889,-74.5625,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.881111111,-74.46944444,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,4.881111111,-74.46944444,Dermal scrape,Human,PCR,L. braziliensis
-Tolima,4.966666667,-74.9,Dermal scrape,Human,PCR,L. panamensis
-Chocó,4.974166667,-76.22833333,Dermal scrape,Human,PCR,L. panamensis
-Caldas,4.978644,-75.8287,Aspiration puncture,Human,PCR,L. panamensis
-Cundinamarca,5.008888889,-74.47222222,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.008888889,-74.47222222,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.008888889,-74.47222222,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.008888889,-74.47222222,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,5.008888889,-74.47222222,Dermal scrape,Human,PCR,L. braziliensis
-Tolima,5.030555556,-75.11611111,Dermal scrape,Human,PCR,L. panamensis
-Tolima,5.030555556,-75.11611111,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.066944444,-74.595,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,5.069722222,-74.37805556,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.069722222,-74.37805556,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,5.069722222,-74.37805556,Dermal scrape,Human,PCR,L. braziliensis
-Chocó,5.100277778,-76.54555556,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.126111111,-74.385,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,5.126666667,-74.45361111,Dermal scrape,Human,PCR,L. braziliensis
-Cundinamarca,5.126666667,-74.45361111,Dermal scrape,Human,PCR,L. braziliensis
-Tolima,5.133333333,-74.95,Dermal scrape,Human,PCR,L. panamensis
-Tolima,5.133333333,-74.95,Dermal scrape,Human,PCR,L. panamensis
-Tolima,5.133333333,-74.95,Dermal scrape,Human,PCR,L. panamensis
-Chocó,5.163333333,-76.68666667,Dermal scrape,Human,PCR,L. panamensis
-Caldas,5.16549,-75.7668,Aspiration puncture,Human,PCR,L. panamensis
-Casanare,5.172777778,-72.54694444,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,5.344166667,-74.49166667,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,5.344166667,-74.49166667,Dermal scrape,Human,PCR,L. mexicana
+Cundinamarca,5.344166667,-74.49166667,Dermal scrape,Human,PCR,L. braziliensis
 Cundinamarca,5.187222222,-74.48111111,Dermal scrape,Human,PCR,L. panamensis
 Cundinamarca,5.187222222,-74.48111111,Dermal scrape,Human,PCR,L. braziliensis
 Cundinamarca,5.187222222,-74.48111111,Dermal scrape,Human,PCR,L. braziliensis
-Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
-Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
-Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
-Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
-Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
-Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
-Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
-Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
-Tolima,5.198888889,-74.89305556,Dermal scrape,Human,PCR,L. panamensis
-Tolima,5.2,-74.886663,Insect,Insect,MLEE,L. lainsoni
-Tolima,5.2,-74.886663,Insect,Insect,MLEE,L. colombiensis
-Tolima,5.2,-74.886663,Blood,Human,MLEE,L. colombiensis
-Tolima,5.2,-74.886663,Insect,Insect,MLEE,L. braziliensis
+Cundinamarca,5.008888889,-74.47222222,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,5.008888889,-74.47222222,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,5.008888889,-74.47222222,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,5.008888889,-74.47222222,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,5.008888889,-74.47222222,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.64,-74.095176,Biopsy ,Human,IFI,L. infantum
+Cundinamarca,4.881111111,-74.46944444,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.881111111,-74.46944444,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.763333333,-74.46472222,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,4.763333333,-74.46472222,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,4.763333333,-74.46472222,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.763333333,-74.46472222,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.763333333,-74.46472222,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.63,-74.4625,Biopsy ,Human,MLEE,L. mexicana
+Cundinamarca,4.630277778,-74.4625,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.630277778,-74.4625,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,5.126666667,-74.45361111,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,5.126666667,-74.45361111,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,5.126111111,-74.385,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,5.069722222,-74.37805556,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,5.069722222,-74.37805556,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,5.069722222,-74.37805556,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.618888889,-74.35388889,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
+Tolima,3.73,-75.156915,Blood,Dog,IFI,L. infantum
+Chocó,4.974166667,-76.22833333,Dermal scrape,Human,PCR,L. panamensis
+Caldas,4.978644,-75.8287,Aspiration puncture,Human,PCR,L. panamensis
+Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
+Tolima,3.7975,-75.19388889,Dermal scrape,Reservoir,PCR,L. amazonensis
+Tolima,3.799339,-75.194595,Blood,Dog,IFI,L. infantum
+Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,4.570868,-74.297333,Serum,Human,PCR,L. amazonensis
+Cundinamarca,4.570868,-74.297333,Serum,Dog,PCR,L. amazonensis
+Chocó,5.100277778,-76.54555556,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,4.570868,-74.297333,Serum,Dog,PCR,L. infantum
+Cundinamarca,4.570868,-74.297333,Serum,Human,PCR,L. braziliensis
+Cundinamarca,5.363611111,-74.14583333,Dermal scrape,Human,PCR,L. panamensis
+Tolima,3.799339,-75.194595,Blood,Dog,IFI,L. infantum
+Tolima,3.799,-75.195,Blood,Dog,IFI,L. infantum
+Tolima,3.79,-75.197427,Blood,Human,ELISA,L. infantum
+Chocó,5.163333333,-76.68666667,Dermal scrape,Human,PCR,L. panamensis
+Caldas,5.16549,-75.7668,Aspiration puncture,Human,PCR,L. panamensis
+Casanare,5.172777778,-72.54694444,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,5.363611111,-74.14583333,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,5.363611111,-74.14583333,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,5.363611111,-74.14583333,Dermal scrape,Human,PCR,L. panamensis
+Tolima,3.819167,-75.198333,Biopsy ,Human,ELISA,L. infantum
+Tolima,4.43889,-75.232224,Biopsy ,Human,Monoclonal antibodies,L. panamensis
+Tolima,3.723827,-75.483979,Biopsy ,Human,MLEE,L. panamensis
+Tolima,3.723827,-75.483979,Biopsy ,Human,MLEE,L. panamensis
+Tolima,3.723827,-75.483979,Biopsy ,Human,MLEE,L. guyanensis
+Tolima,3.723611111,-75.48472222,Dermal scrape,Human,PCR,L. panamensis
+Tolima,3.716667,-75.5,Biopsy ,Dog,PCR,L. guyanensis
+Tolima,3.716667,-75.5,Biopsy ,Dog,ELISA,L. guyanensis
+Tolima,3.716667,-75.5,Biopsy ,Dog,PCR,L. braziliensis
+Tolima,3.716667,-75.5,Biopsy ,Dog,PCR,L. braziliensis
+Tolima,3.841944,-75.565833,Insect,Insect,PCR,L. guyanensis
+Tolima,3.529166667,-75.64472222,Dermal scrape,Human,PCR,L. panamensis
+Tolima,3.529166667,-75.64472222,Dermal scrape,Human,PCR,L. guyanensis
 Risaralda,5.222288,-76.03105,Insect,Insect,PCR,L. mexicana
 Risaralda,5.222288,-76.03105,Insect,Insect,PCR,L. infantum
 Risaralda,5.222288,-76.03105,Insect,Insect,PCR,L. infantum
-Antioquia,5.238333333,-76.03638889,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,5.238333333,-76.03638889,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,5.238333333,-76.03638889,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,5.238333333,-76.03638889,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.758055556,-76.65527778,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.758055556,-76.65527778,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.758055556,-76.65527778,Dermal scrape,Human,PCR,L. equatoriensis
+Antioquia,7.884722222,-76.635,Dermal scrape,Human,PCR,L. panamensis
 Chocó,5.266111111,-76.565,Dermal scrape,Human,PCR,L. panamensis
 Caldas,5.296666667,-75.055,Dermal scrape,Human,PCR,L. panamensis
 Caldas,5.316388889,-74.91111111,Dermal scrape,Human,PCR,L. panamensis
@@ -281,30 +281,30 @@ Caldas,5.316388889,-74.91111111,Dermal scrape,Human,PCR,L. panamensis
 Caldas,5.316388889,-74.91111111,Dermal scrape,Human,PCR,L. panamensis
 Caldas,5.316388889,-74.91111111,Dermal scrape,Human,PCR,L. infantum
 Casanare,5.33775,-72.395859,Aspiration puncture,Human,PCR,L. mexicana
-Cundinamarca,5.344166667,-74.49166667,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.344166667,-74.49166667,Dermal scrape,Human,PCR,L. mexicana
-Cundinamarca,5.344166667,-74.49166667,Dermal scrape,Human,PCR,L. braziliensis
 Cundinamarca,5.363611111,-74.14583333,Dermal scrape,Human,PCR,L. panamensis
 Cundinamarca,5.363611111,-74.14583333,Dermal scrape,Human,PCR,L. panamensis
 Cundinamarca,5.363611111,-74.14583333,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.363611111,-74.14583333,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.363611111,-74.14583333,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.363611111,-74.14583333,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.363611111,-74.14583333,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,4.851111111,-74.12611111,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.851111111,-74.12611111,Dermal scrape,Human,PCR,L. braziliensis
+Cundinamarca,4.591612,-74.088864,Biopsy ,Human,Monoclonal antibodies,L. panamensis
+Cundinamarca,4.591612,-74.088864,Biopsy ,Human,Monoclonal antibodies,L. guyanensis
+Cundinamarca,4.591612,-74.088864,Biopsy ,Human,Monoclonal antibodies,L. braziliensis
+Cundinamarca,4.60971,-74.081749,Aspiration puncture,Human,PCR,L. panamensis
+Cundinamarca,4.60971,-74.081749,Aspiration puncture,Human,PCR,L. panamensis
 Caldas,5.4125,-74.99222222,Dermal scrape,Human,PCR,L. panamensis
 Caldas,5.4125,-74.99222222,Dermal scrape,Human,PCR,L. panamensis
-Valle del Cauca,5.424444444,-74.89666667,Dermal scrape,Human,PCR,L. panamensis
+Caldas,5.424444444,-74.89666667,Dermal scrape,Human,PCR,L. panamensis
 Caldas,5.453888889,-74.66472222,Dermal scrape,Human,PCR,L. braziliensis
 Boyacá,5.454167,-73.361944,Aspiration puncture,Human,PCR,L. panamensis
 Boyacá,5.454167,-73.361944,Insect,Insect,PCR,L. panamensis
-Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
-Cundinamarca,5.459444444,-74.33833333,Dermal scrape,Human,PCR,L. panamensis
+Cundinamarca,4.60971,-74.081749,Mucosal tissue,Human,PCR,L. guyanensis
+Cundinamarca,4.60971,-74.081749,Aspiration puncture,Human,PCR,L. mexicana
+Cundinamarca,4.60971,-74.081749,Mucosal tissue,Human,PCR,L. amazonensis
+Cundinamarca,4.60971,-74.081749,Mucosal tissue,Human,MLEE,L. braziliensis
+Cundinamarca,4.60971,-74.081749,Mucosal tissue,Human,MLEE,L. braziliensis
+Cundinamarca,4.711,-74.072,Biopsy ,Human,MLEE,L. panamensis
+Cundinamarca,4.711,-74.072,Aspiration puncture,Human,PCR,L. guyanensis
+Cundinamarca,4.78,-73.957332,Biopsy ,Human,MLEE,L. braziliensis
 Chocó,5.515277778,-76.97472222,Dermal scrape,Human,PCR,L. panamensis
 Chocó,5.525833333,-76.995,Dermal scrape,Human,PCR,L. panamensis
 Boyacá,5.657777778,-74.18055556,Dermal scrape,Human,PCR,L. panamensis
@@ -312,25 +312,25 @@ Boyacá,5.657777778,-74.18055556,Dermal scrape,Human,PCR,L. panamensis
 Boyacá,5.657777778,-74.18055556,Dermal scrape,Human,PCR,L. panamensis
 Boyacá,5.657777778,-74.18055556,Dermal scrape,Human,PCR,L. panamensis
 Boyacá,5.657777778,-74.18055556,Dermal scrape,Human,PCR,L. panamensis
-Boyacá,5.657777778,-74.18055556,Dermal scrape,Human,PCR,L. infantum
+Boyacá,5.6,-74.18,Dermal scrape,Human,PCR,L. infantum
 Boyacá,5.663055556,-74.06333333,Dermal scrape,Human,PCR,L. panamensis
 Boyacá,5.663055556,-74.06333333,Dermal scrape,Human,PCR,L. panamensis
 Boyacá,5.663055556,-74.06333333,Dermal scrape,Human,PCR,L. panamensis
 Chocó,5.69188,-76.65835,Aspiration puncture,Human,PCR,L. panamensis
-Antioquia,5.710555556,-75.31055556,Dermal scrape,Human,PCR,L. panamensis
-Valle del Cauca,5.760277778,-70.00805556,Dermal scrape,Human,PCR,L. braziliensis
-Boyacá,5.81667,-89.69972222,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,7.884722222,-76.635,Dermal scrape,Human,PCR,L. braziliensis
+Vichada,5.760277778,-70.00805556,Dermal scrape,Human,PCR,L. braziliensis
+Boyacá,5.81667,-74.18055556,Dermal scrape,Human,PCR,L. braziliensis
 Santander,5.8575,-73.96555556,Dermal scrape,Human,PCR,L. panamensis
 Santander,5.8575,-73.96555556,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,5.8725,-74.64027778,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,5.8725,-74.64027778,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,5.8725,-74.64027778,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.883055556,-76.62583333,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.883055556,-76.62583333,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.883055556,-76.62583333,Dermal scrape,Human,PCR,L. braziliensis
 Casanare,5.880555556,-71.89194444,Dermal scrape,Human,PCR,L. panamensis
-Boyacá,5.918333333,-73.79111111,Dermal scrape,Human,PCR,L. panamensis
-Boyacá,5.918333333,-73.79111111,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,5.946445,-75.523721,Insect,Insect,MLEE,L. panamensis
-Antioquia,5.946445,-75.523721,Skin Test,Human,MLEE,L. panamensis
-Antioquia,5.946445,-75.523721,Dermal scrape,Insect,MLEE,L. braziliensis
+Santander,5.918333333,-73.79111111,Dermal scrape,Human,PCR,L. panamensis
+Santander,5.918333333,-73.79111111,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.883055556,-76.62583333,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,7.4225,-76.5325,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,8.761111111,-76.52861111,Dermal scrape,Human,PCR,L. panamensis
 Boyacá,5.964241667,-74.48816667,Dermal scrape,Human,PCR,L. panamensis
 Boyacá,5.964241667,-74.48816667,Dermal scrape,Human,PCR,L. panamensis
 Boyacá,5.964241667,-74.48816667,Dermal scrape,Human,PCR,L. panamensis
@@ -340,9 +340,9 @@ Boyacá,5.975833333,-74.58833333,Dermal scrape,Human,PCR,L. panamensis
 Boyacá,5.975833333,-74.58833333,Dermal scrape,Human,PCR,L. panamensis
 Boyacá,5.975833333,-74.58833333,Dermal scrape,Human,PCR,L. braziliensis
 Santander,6.013333333,-73.67361111,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,6.09106,-75.635689,Aspiration puncture,Human,PCR,L. panamensis
-Antioquia,6.09106,-75.635689,Aspiration puncture,Human,PCR,L. mexicana
-Cesar,6.178611111,-73.58944444,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.997777778,-76.49333333,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.997777778,-76.49333333,Dermal scrape,Human,PCR,L. panamensis
+Santander,6.178611111,-73.58944444,Dermal scrape,Human,PCR,L. panamensis
 Vichada,6.183333,-67.466666,Aspiration puncture,Human,PCR,L. braziliensis
 Santander,6.218055556,-73.81138889,Dermal scrape,Human,PCR,L. panamensis
 Santander,6.218333333,-73.81111111,Dermal scrape,Human,PCR,L. panamensis
@@ -361,12 +361,12 @@ Santander,6.218333333,-73.81111111,Dermal scrape,Human,PCR,L. panamensis
 Santander,6.218333333,-73.81111111,Dermal scrape,Human,PCR,L. amazonensis
 Santander,6.218333333,-73.81111111,Dermal scrape,Human,PCR,L. braziliensis
 Chocó,6.22245,-77.400768,Skin Test,Human,Monoclonal antibodies,L. panamensis
-Antioquia,6.251564,-75.583347,Biopsy ,Human,PCR,L. mexicana
-Antioquia,6.252,-75.564,Biopsy ,Human,PCR,L. braziliensis
-Antioquia,6.252,-75.564,Dermal scrape,Human,PCR,L. naiffi
-Antioquia,6.263993,-75.567702,Biopsy ,Human,PCR,L. panamensis
-Antioquia,6.263993,-75.567702,Biopsy ,Human,PCR,L. guyanensis
-Antioquia,6.263993,-75.567702,Biopsy ,Human,PCR,L. braziliensis
+Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. lainsoni
+Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. amazonensis
 Santander,6.314166667,-73.94972222,Dermal scrape,Human,PCR,L. panamensis
 Santander,6.314166667,-73.94972222,Dermal scrape,Human,PCR,L. panamensis
 Santander,6.314166667,-73.94972222,Dermal scrape,Human,PCR,L. panamensis
@@ -379,28 +379,28 @@ Santander,6.314166667,-73.94972222,Dermal scrape,Human,PCR,L. panamensis
 Santander,6.314166667,-73.94972222,Dermal scrape,Human,PCR,L. panamensis
 Santander,6.314166667,-73.94972222,Dermal scrape,Human,PCR,L. panamensis
 Santander,6.314166667,-73.94972222,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,6.315277778,-76.13416667,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. braziliensis
 Santander,6.321666667,-73.34666667,Dermal scrape,Human,PCR,L. panamensis
 Santander,6.34,-73.61694444,Dermal scrape,Human,PCR,L. panamensis
 Santander,6.34,-73.61694444,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,6.3725,-73.23333333,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,6.407222222,-74.75666667,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,6.485,-75.01972222,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,6.485,-75.01972222,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,6.491666667,-74.40333333,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,6.491666667,-74.40333333,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,6.491666667,-74.40333333,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,6.494444444,-74.84027778,Dermal scrape,Human,PCR,L. amazonensis
+Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,7.001388889,-76.26111111,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.001388889,-76.26111111,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.001388889,-76.26111111,Dermal scrape,Human,PCR,L. amazonensis
+Antioquia,7.001388889,-76.26111111,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,7.001388889,-76.26111111,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,7.35,-76.23333333,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,6.315277778,-76.13416667,Dermal scrape,Human,PCR,L. panamensis
+Risaralda,5.238333333,-76.03638889,Dermal scrape,Human,PCR,L. panamensis
+Risaralda,5.238333333,-76.03638889,Dermal scrape,Human,PCR,L. panamensis
+Risaralda,5.238333333,-76.03638889,Dermal scrape,Human,PCR,L. panamensis
+Risaralda,5.238333333,-76.03638889,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.021111111,-75.90916667,Dermal scrape,Human,PCR,L. braziliensis
 Antioquia,6.55687,-75.82806,Aspiration puncture,Human,PCR,L. panamensis
+Santander,6.698055556,-73.51111111,Dermal scrape,Human,PCR,L. panamensis
 Antioquia,6.55687,-75.82806,Biopsy ,Human,PCR,L. panamensis
 Antioquia,6.55687,-75.82806,Biopsy ,Human,PCR,L. guyanensis
 Antioquia,6.55687,-75.82806,Biopsy ,Human,PCR,L. braziliensis
-Antioquia,6.674444444,-74.83416667,Dermal scrape,Human,PCR,L. equatoriensis
-Antioquia,6.681667,-75.218056,Biopsy ,Human,MLEE,L. mexicana
-Santander,6.698055556,-73.51111111,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,6.770003,-75.192495,Biopsy ,Human,MLEE,L. mexicana
-Antioquia,6.828333333,-75.51305556,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,6.828333333,-75.51305556,Dermal scrape,Human,PCR,L. panamensis
 Santander,6.881111111,-73.40972222,Dermal scrape,Human,PCR,L. panamensis
 Santander,6.881111111,-73.40972222,Dermal scrape,Human,PCR,L. panamensis
 Santander,6.881111111,-73.40972222,Dermal scrape,Human,PCR,L. panamensis
@@ -413,64 +413,32 @@ Santander,6.881111111,-73.40972222,Insect,Insect,PCR,L. colombiensis
 Santander,6.881111111,-73.40972222,Insect,Insect,PCR,L. colombiensis
 Santander,6.881111111,-73.40972222,Dermal scrape,Human,PCR,L. infantum
 Santander,6.881944,-73.411944,Skin Test,Human,ELISA,L. panamensis
-Antioquia,6.885277778,-75.33527778,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,6.904722222,-75.07666667,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.001388889,-76.26111111,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.001388889,-76.26111111,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.001388889,-76.26111111,Dermal scrape,Human,PCR,L. amazonensis
-Antioquia,7.001388889,-76.26111111,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.001388889,-76.26111111,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.021111111,-75.90916667,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.030833333,-74.53333333,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.030833333,-74.53333333,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.171111111,-75.76416667,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.171111111,-75.76416667,Dermal scrape,No specific,PCR,L. braziliensis
+Antioquia,6.09106,-75.635689,Aspiration puncture,Human,PCR,L. panamensis
+Antioquia,6.09106,-75.635689,Aspiration puncture,Human,PCR,L. mexicana
+Antioquia,6.251564,-75.583347,Biopsy ,Human,PCR,L. mexicana
+Antioquia,6.263993,-75.567702,Biopsy ,Human,PCR,L. panamensis
+Antioquia,6.263993,-75.567702,Biopsy ,Human,PCR,L. guyanensis
+Antioquia,6.263993,-75.567702,Biopsy ,Human,PCR,L. braziliensis
+Antioquia,6.252,-75.564,Biopsy ,Human,PCR,L. braziliensis
+Antioquia,6.252,-75.564,Dermal scrape,Human,PCR,L. naiffi
 Santander,7.0675,-73.84722222,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.073611111,-75.14694444,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.073611111,-75.14694444,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,5.946445,-75.523721,Insect,Insect,MLEE,L. panamensis
+Antioquia,5.946445,-75.523721,Skin Test,Human,MLEE,L. panamensis
 Santander,7.078611111,-73.19722222,Dermal scrape,Human,PCR,L. panamensis
 Santander,7.078611111,-73.19722222,Dermal scrape,Human,PCR,L. panamensis
 Santander,7.078611111,-73.19722222,Dermal scrape,Human,PCR,L. amazonensis
 Santander,7.078611111,-73.19722222,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.08,-74.69888889,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.08,-74.69888889,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,5.946445,-75.523721,Dermal scrape,Insect,MLEE,L. braziliensis
+Antioquia,6.828333333,-75.51305556,Dermal scrape,Human,PCR,L. panamensis
 Santander,7.12539,-73.119797,Aspiration puncture,Human,PCR,L. panamensis
-Antioquia,7.153611111,-73.15361111,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.153611111,-73.15361111,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.153611111,-73.15361111,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.153611111,-73.15361111,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.153611111,-73.15361111,Dermal scrape,Human,PCR,L. braziliensis
-Valle del Cauca,7.157777778,-76.97083333,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,6.828333333,-75.51305556,Dermal scrape,Human,PCR,L. panamensis
 Antioquia,7.163611111,-75.43916667,Dermal scrape,Human,PCR,L. panamensis
 Antioquia,7.163611111,-75.43916667,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.171111111,-75.76416667,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.171111111,-75.76416667,Dermal scrape,No specific,PCR,L. braziliensis
-Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. lainsoni
-Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. amazonensis
-Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.244166667,-76.43555556,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.287777778,-75.39444444,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.287777778,-75.39444444,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.287777778,-75.39444444,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.287777778,-75.39444444,Dermal scrape,Human,PCR,L. braziliensis
-Norte de Santander,7.298888889,-72.49472222,Dermal scrape,Human,PCR,L. panamensis
-Norte de Santander,7.298888889,-72.49472222,Dermal scrape,Human,PCR,L. braziliensis
-Norte de Santander,7.298888889,-72.49472222,Dermal scrape,Human,PCR,L. braziliensis
-Norte de Santander,7.298888889,-72.49472222,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.35,-76.23333333,Dermal scrape,Human,PCR,L. panamensis
-Chocó,7.382222222,-77.11083333,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.4225,-76.5325,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.429166667,-75.30722222,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.429166667,-75.30722222,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.429166667,-75.30722222,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.429166667,-75.30722222,Dermal scrape,Human,PCR,L. mexicana
-Caldas,7.440277778,-77.11666667,Dermal scrape,Human,PCR,L. amazonensis
-Antioquia,7.489722222,-74.86916667,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.489722222,-74.86916667,Dermal scrape,Human,PCR,L. panamensis
 Antioquia,7.583611111,-75.40055556,Dermal scrape,Human,PCR,L. panamensis
 Antioquia,7.583611111,-75.40055556,Dermal scrape,Human,PCR,L. panamensis
+Chocó,7.157777778,-76.97083333,Dermal scrape,Human,PCR,L. braziliensis
 Antioquia,7.583611111,-75.40055556,Dermal scrape,Human,PCR,L. panamensis
 Antioquia,7.583611111,-75.40055556,Dermal scrape,Human,PCR,L. panamensis
 Antioquia,7.583611111,-75.40055556,Dermal scrape,Human,PCR,L. panamensis
@@ -478,59 +446,91 @@ Antioquia,7.583611111,-75.40055556,Dermal scrape,Human,PCR,L. panamensis
 Antioquia,7.583611111,-75.40055556,Dermal scrape,Human,PCR,L. panamensis
 Antioquia,7.583611111,-75.40055556,Dermal scrape,Human,PCR,L. panamensis
 Antioquia,7.583611111,-75.40055556,Dermal scrape,Human,PCR,L. amazonensis
+Antioquia,7.287777778,-75.39444444,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.287777778,-75.39444444,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.287777778,-75.39444444,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.287777778,-75.39444444,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,6.885277778,-75.33527778,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,5.710555556,-75.31055556,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.429166667,-75.30722222,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.429166667,-75.30722222,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.429166667,-75.30722222,Dermal scrape,Human,PCR,L. panamensis
+Norte de Santander,7.298888889,-72.49472222,Dermal scrape,Human,PCR,L. panamensis
+Norte de Santander,7.298888889,-72.49472222,Dermal scrape,Human,PCR,L. braziliensis
+Norte de Santander,7.298888889,-72.49472222,Dermal scrape,Human,PCR,L. braziliensis
+Norte de Santander,7.298888889,-72.49472222,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,7.429166667,-75.30722222,Dermal scrape,Human,PCR,L. mexicana
+Chocó,7.382222222,-77.11083333,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,6.681667,-75.218056,Biopsy ,Human,MLEE,L. mexicana
+Antioquia,6.770003,-75.192495,Biopsy ,Human,MLEE,L. mexicana
+Antioquia,7.073611111,-75.14694444,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.073611111,-75.14694444,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,6.904722222,-75.07666667,Dermal scrape,Human,PCR,L. braziliensis
+Caldas,7.440277778,-77.11666667,Dermal scrape,Human,PCR,L. amazonensis
+Antioquia,6.485,-75.01972222,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,6.485,-75.01972222,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.489722222,-74.86916667,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.489722222,-74.86916667,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,6.494444444,-74.84027778,Dermal scrape,Human,PCR,L. amazonensis
+Antioquia,6.674444444,-74.83416667,Dermal scrape,Human,PCR,L. equatoriensis
 Antioquia,7.592777778,-74.80861111,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,6.407222222,-74.75666667,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.08,-74.69888889,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.08,-74.69888889,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,5.8725,-74.64027778,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,5.8725,-74.64027778,Dermal scrape,Human,PCR,L. panamensis
 Norte de Santander,7.642222222,-72.79944444,Dermal scrape,Human,PCR,L. braziliensis
 Norte de Santander,7.642222222,-72.79944444,Insect,Insect,PCR,L. braziliensis
 Norte de Santander,7.642222222,-72.79944444,Dermal scrape,No specific,PCR,L. braziliensis
 Norte de Santander,7.642778,-72.798333,Insect,Insect,MLEE,L. panamensis
 Norte de Santander,7.642778,-72.798333,Insect,Insect,MLEE,L. guyanensis
 Norte de Santander,7.642778,-72.798333,Insect,Insect,MLEE,L. braziliensis
-Antioquia,7.669722222,-76.68138889,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.669722222,-76.68138889,Dermal scrape,Human,PCR,L. braziliensis
+Antioquia,5.8725,-74.64027778,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,7.030833333,-74.53333333,Dermal scrape,Human,PCR,L. panamensis
 Norte de Santander,7.713055556,-72.6575,Dermal scrape,Human,PCR,L. panamensis
 Norte de Santander,7.713055556,-72.6575,Dermal scrape,Human,PCR,L. braziliensis
 Norte de Santander,7.740833333,-73.04861111,Dermal scrape,Human,PCR,L. panamensis
 Norte de Santander,7.740833333,-73.04861111,Dermal scrape,Human,PCR,L. panamensis
 Norte de Santander,7.740833333,-73.04861111,Dermal scrape,Human,PCR,L. mexicana
-Antioquia,7.758055556,-76.65527778,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.758055556,-76.65527778,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.758055556,-76.65527778,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.758055556,-76.65527778,Dermal scrape,Human,PCR,L. equatoriensis
+Antioquia,7.030833333,-74.53333333,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,6.491666667,-74.40333333,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,6.491666667,-74.40333333,Dermal scrape,Human,PCR,L. panamensis
+Antioquia,6.491666667,-74.40333333,Dermal scrape,Human,PCR,L. panamensis
 Cesar,7.761111111,-73.39222222,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.883055556,-76.62583333,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.883055556,-76.62583333,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.883055556,-76.62583333,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.883055556,-76.62583333,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.884722222,-76.635,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.884722222,-76.635,Dermal scrape,Human,PCR,L. braziliensis
+Meta,3.538611111,-73.70055556,Dermal scrape,Human,PCR,L. braziliensis
+Meta,3.538611111,-73.70055556,Dermal scrape,Human,PCR,L. braziliensis
+Meta,3.538611111,-73.70055556,Dermal scrape,Human,PCR,L. braziliensis
+Meta,3.538611111,-73.70055556,Dermal scrape,Human,PCR,L. braziliensis
+Meta,3.5,-73.7,Dermal scrape,Human,PCR,L. panamensis
+Santander,6.3725,-73.23333333,Dermal scrape,Human,PCR,L. panamensis
 Norte de Santander,7.9325,-72.6025,Dermal scrape,Human,PCR,L. braziliensis
-Antioquia,7.933055556,-76.71638889,Dermal scrape,Human,PCR,L. panamensis
+Santander,7.153611111,-73.15361111,Dermal scrape,Human,PCR,L. panamensis
 Bolivar,7.957777778,-73.94361111,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.997777778,-76.49333333,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,7.997777778,-76.49333333,Dermal scrape,Human,PCR,L. panamensis
-Norte de Santander,8.07833,-78.89972222,Dermal scrape,Human,PCR,L. braziliensis
+Santander,7.153611111,-73.15361111,Dermal scrape,Human,PCR,L. panamensis
+Santander,7.153611111,-73.15361111,Dermal scrape,Human,PCR,L. panamensis
+Norte de Santander,8.07833,-73.35527778,Dermal scrape,Human,PCR,L. braziliensis
 Córdoba,8.172777778,-76.05944444,Dermal scrape,Human,PCR,L. panamensis
 Córdoba,8.172777778,-76.05944444,Dermal scrape,Human,PCR,L. panamensis
 Córdoba,8.172777778,-76.05944444,Dermal scrape,Human,PCR,L. guyanensis
 Córdoba,8.172777778,-76.05944444,Dermal scrape,Human,PCR,L. braziliensis
 Norte de Santander,8.246111111,-73.35527778,Dermal scrape,Human,PCR,L. panamensis
 Córdoba,8.3125,-75.145,Dermal scrape,Human,PCR,L. panamensis
-Antioquia,8.425833333,-76.78388889,Dermal scrape,Human,PCR,L. panamensis
+Santander,7.153611111,-73.15361111,Dermal scrape,Human,PCR,L. panamensis
 Norte de Santander,8.512777778,-73.45083333,Dermal scrape,Human,PCR,L. panamensis
 Chocó,8.616666667,-77.33333333,Dermal scrape,Human,PCR,L. panamensis
-Cordoba,8.74798,-75.881432,Aspiration puncture,Human,PCR,L. panamensis
-Cordoba,8.75,-75.883333,Insect,Insect,PCR,L. panamensis
-Cordoba,8.75,-75.883333,Insect,Insect,PCR,L. infantum
-Antioquia,8.761111111,-76.52861111,Dermal scrape,Human,PCR,L. panamensis
-Cordoba,8.844167,-76.038056,Insect,Insect,PCR,L. panamensis
-Meta,8.844167,-76.038056,Insect,Insect,PCR,L. infantum
-Cordoba,9.14,-75.508611,Biopsy ,Human,PCR,L. infantum
-Cordoba,9.145278,-75.508611,Biopsy ,Didelphis marsupialis,PCR,L. infantum
-Cordoba,9.147,-75.509,Insect,Insect,MLEE,L. infantum
-Cordoba,9.15,-75.516667,Biopsy ,common opossum,Monoclonal antibodies,L. infantum
-Cordoba,9.15,-75.516667,Biopsy ,Human,Monoclonal antibodies,L. infantum
-Cordoba,9.15,-75.516667,Biopsy ,common opossum,PCR,L. infantum
-Cordoba,9.437777778,-74.79527778,Dermal scrape,Human,PCR,L. panamensis
+Córdoba,8.74798,-75.881432,Aspiration puncture,Human,PCR,L. panamensis
+Córdoba,8.75,-75.883333,Insect,Insect,PCR,L. panamensis
+Córdoba,8.75,-75.883333,Insect,Insect,PCR,L. infantum
+Santander,7.153611111,-73.15361111,Dermal scrape,Human,PCR,L. braziliensis
+Córdoba,8.844167,-76.038056,Insect,Insect,PCR,L. panamensis
+Córdoba,8.844167,-76.038056,Insect,Insect,PCR,L. infantum
+Córdoba,9.14,-75.508611,Biopsy ,Human,PCR,L. infantum
+Córdoba,9.145278,-75.508611,Biopsy ,Didelphis marsupialis,PCR,L. infantum
+Córdoba,9.147,-75.509,Insect,Insect,MLEE,L. infantum
+Córdoba,9.15,-75.516667,Biopsy ,common opossum,Monoclonal antibodies,L. infantum
+Córdoba,9.15,-75.516667,Biopsy ,Human,Monoclonal antibodies,L. infantum
+Córdoba,9.15,-75.516667,Biopsy ,common opossum,PCR,L. infantum
+Bolivar,9.437777778,-74.79527778,Dermal scrape,Human,PCR,L. panamensis
 Sucre,9.52,-75.227786,Biopsy ,Dog,IFI,L. panamensis
 Sucre,9.525856,-75.227529,Biopsy ,Human,PCR,L. panamensis
 Sucre,9.525856,-75.227529,Biopsy ,Human,PCR,L. guyanensis
@@ -543,5 +543,5 @@ Cesar,10.463,-73.253,Biopsy ,Human,MLEE,L. mexicana
 Cesar,10.463,-73.253,Biopsy ,Human,MLEE,L. amazonensis
 Magdalena,10.51722222,-74.19222222,Dermal scrape,Human,PCR,L. braziliensis
 Magdalena,10.52055556,-74.185,Dermal scrape,Human,PCR,L. panamensis
-Guajira,10.77111111,-73.00305556,Dermal scrape,Human,PCR,L. infantum
+Cesar,10.77111111,-73.00305556,Dermal scrape,Human,PCR,L. infantum
 Guajira,11.54444444,-72.90722222,Dermal scrape,Human,PCR,L. braziliensis
