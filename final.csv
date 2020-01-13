@@ -1,0 +1,1603 @@
+﻿country;lat;long;sample;host;method;species
+Colombia;1.804758;-78.765424;Dermal scrape;Human;MLEE;L. amazonensis
+Colombia;3.339233;-76.528052;Dermal scrape;Human;MLEE;L. amazonensis
+Colombia;4.231666667;-73.50805556;Dermal scrape;Human;PCR;L. amazonensis
+Colombia;3.7975;-75.19388889;Dermal scrape;Reservoir;PCR;L. amazonensis
+Colombia;4.570868;-74.297333;Serum;Human;PCR;L. amazonensis
+Colombia;4.570868;-74.297333;Serum;Dog;PCR;L. amazonensis
+Colombia;4.60971;-74.081749;Mucosal tissue;Human;PCR;L. amazonensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. amazonensis
+Colombia;7.244166667;-76.43555556;Dermal scrape;Human;PCR;L. amazonensis
+Colombia;7.001388889;-76.26111111;Dermal scrape;Human;PCR;L. amazonensis
+Colombia;7.078611111;-73.19722222;Dermal scrape;Human;PCR;L. amazonensis
+Colombia;7.583611111;-75.40055556;Dermal scrape;Human;PCR;L. amazonensis
+Colombia;7.440277778;-77.11666667;Dermal scrape;Human;PCR;L. amazonensis
+Colombia;6.494444444;-74.84027778;Dermal scrape;Human;PCR;L. amazonensis
+Colombia;10.463;-73.253;Biopsy ;Human;MLEE;L. amazonensis
+Colombia;-0.193333333;-74.78194444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;0.425277778;-76.90527778;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;0.623055556;-72.3833;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;0.685;-76.60444444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;1.250277778;-70.235;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;1.79861;-78.815559;Blood;Human;PCR;L. braziliensis
+Colombia;1.79861;-78.815559;Blood;Human;PCR;L. braziliensis
+Colombia;1.787434;-78.791265;Biopsy ;Human;PCR;L. braziliensis
+Colombia;1.804758;-78.765424;Biopsy ;Human;MLEE;L. braziliensis
+Colombia;1.806666667;-78.76472222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;1.806667;-78.764722;Biopsy ;Dog;Monoclonal antibodies;L. braziliensis
+Colombia;1.29;-77.357;Biopsy ;No specific;PCR;L. braziliensis
+Colombia;1.933888889;-77.30527778;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;1.50575;-75.39027778;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;1.336666667;-71.95111111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;1.996263;-77.184102;Biopsy ;Human;IFI;L. braziliensis
+Colombia;2.121666667;-74.76611111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.182777778;-73.78472222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.323888889;-73.345;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.352222222;-72.83083333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.42165;-72.60166667;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.480555556;-72.95916667;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.565277778;-72.63861111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.567;-72.633;Aspiration puncture;Human;PCR;L. braziliensis
+Colombia;2.572777778;-72.64583333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.572777778;-72.64583333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.572777778;-72.64583333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.572777778;-72.64583333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.572777778;-72.64583333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.572777778;-72.64583333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.623333333;-72.75916667;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.627222222;-68.05611111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.88923;-72.12;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.889166667;-72.12555556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.891944444;-72.13361111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.927222222;-75.28194444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;2.93;-73.2;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3;-76.71666667;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.022222222;-73.40444444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.123888889;-73.75138889;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.173333333;-74.96583333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.240833333;-74.35361111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.269166667;-73.37611111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.339;-76.528331;Biopsy ;Human;MLEE;L. braziliensis
+Colombia;3.339233;-76.528052;Biopsy ;Human;MLEE;L. braziliensis
+Colombia;3.373611111;-73.87666667;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.49;-69.81222222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.508333;-76.521667;Biopsy ;Human;MLEE;L. braziliensis
+Colombia;4.204722222;-74.64083333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.669722222;-76.68138889;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.669722222;-76.68138889;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.2;-74.886663;Insect;Insect;MLEE;L. braziliensis
+Colombia;3.724444;-76.267222;Aspiration puncture;Human;MLEE;L. braziliensis
+Colombia;3.870833333;-67.92111111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.904445;-76.454461;Biopsy ;opossums,rodents and rabbit ;PCR;L. braziliensis
+Colombia;3.988888889;-73.76472222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.99639;-76.9744;Biopsy ;Sloth bear;MLEE;L. braziliensis
+Colombia;4.084444444;-72.95583333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.089722222;-72.96194444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.15;-73.633;Aspiration puncture;Human;PCR;L. braziliensis
+Colombia;4.280833333;-74.76472222;Insect;Insect;PCR;L. braziliensis
+Colombia;4.280833333;-74.76472222;Insect;Insect;PCR;L. braziliensis
+Colombia;4.312977;-72.083573;Biopsy ;Human;PCR;L. braziliensis
+Colombia;4;-69.932778;Blood;Dog;IFI;L. braziliensis
+Colombia;4.313333333;-72.08166667;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.314166667;-72.0825;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.066944444;-74.595;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.446111111;-69.79555556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.748055556;-74.56305556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.748055556;-74.56305556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.748055556;-74.56305556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.873888889;-74.5625;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.873888889;-74.5625;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.437222222;-74.52166667;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.344166667;-74.49166667;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.187222222;-74.48111111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.187222222;-74.48111111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.008888889;-74.47222222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.008888889;-74.47222222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.881111111;-74.46944444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.881111111;-74.46944444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.763333333;-74.46472222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.763333333;-74.46472222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.763333333;-74.46472222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.630277778;-74.4625;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.630277778;-74.4625;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.126666667;-74.45361111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.126666667;-74.45361111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.126111111;-74.385;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.069722222;-74.37805556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.069722222;-74.37805556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.618888889;-74.35388889;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.570868;-74.297333;Serum;Human;PCR;L. braziliensis
+Colombia;5.172777778;-72.54694444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.716667;-75.5;Biopsy ;Dog;PCR;L. braziliensis
+Colombia;3.716667;-75.5;Biopsy ;Dog;PCR;L. braziliensis
+Colombia;4.851111111;-74.12611111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.851111111;-74.12611111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.591612;-74.088864;Biopsy ;Human;Monoclonal antibodies;L. braziliensis
+Colombia;5.453888889;-74.66472222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;4.60971;-74.081749;Mucosal tissue;Human;MLEE;L. braziliensis
+Colombia;4.60971;-74.081749;Mucosal tissue;Human;MLEE;L. braziliensis
+Colombia;4.78;-73.957332;Biopsy ;Human;MLEE;L. braziliensis
+Colombia;7.884722222;-76.635;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.760277778;-70.00805556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.81667;-74.18055556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.883055556;-76.62583333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.883055556;-76.62583333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.964241667;-74.48816667;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.975833333;-74.58833333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;6.183333;-67.466666;Aspiration puncture;Human;PCR;L. braziliensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.244166667;-76.43555556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;6.34;-73.61694444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.244166667;-76.43555556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.001388889;-76.26111111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.001388889;-76.26111111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.021111111;-75.90916667;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;6.55687;-75.82806;Biopsy ;Human;PCR;L. braziliensis
+Colombia;7.171111111;-75.76416667;Dermal scrape;No specific;PCR;L. braziliensis
+Colombia;6.263993;-75.567702;Biopsy ;Human;PCR;L. braziliensis
+Colombia;6.252;-75.564;Biopsy ;Human;PCR;L. braziliensis
+Colombia;7.078611111;-73.19722222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.946445;-75.523721;Dermal scrape;Insect;MLEE;L. braziliensis
+Colombia;7.163611111;-75.43916667;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.157777778;-76.97083333;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.287777778;-75.39444444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;6.885277778;-75.33527778;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.298888889;-72.49472222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.298888889;-72.49472222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.298888889;-72.49472222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.073611111;-75.14694444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;6.904722222;-75.07666667;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.08;-74.69888889;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.642222222;-72.79944444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.642222222;-72.79944444;Insect;Insect;PCR;L. braziliensis
+Colombia;7.642222222;-72.79944444;Dermal scrape;No specific;PCR;L. braziliensis
+Colombia;7.642778;-72.798333;Insect;Insect;MLEE;L. braziliensis
+Colombia;7.713055556;-72.6575;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.761111111;-73.39222222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.538611111;-73.70055556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.538611111;-73.70055556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.538611111;-73.70055556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;3.538611111;-73.70055556;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.9325;-72.6025;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;8.07833;-73.35527778;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;8.172777778;-76.05944444;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;7.153611111;-73.15361111;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;9.525856;-75.227529;Biopsy ;Human;PCR;L. braziliensis
+Colombia;9.532;-75.224;Biopsy ;Human;PCR;L. braziliensis
+Colombia;10.51722222;-74.19222222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;11.54444444;-72.90722222;Dermal scrape;Human;PCR;L. braziliensis
+Colombia;5.2;-74.886663;Insect;Insect;MLEE;L. colombiensis
+Colombia;5.2;-74.886663;Blood;Human;MLEE;L. colombiensis
+Colombia;6.881111111;-73.40972222;Insect;Insect;PCR;L. colombiensis
+Colombia;6.881111111;-73.40972222;Insect;Insect;PCR;L. colombiensis
+Colombia;7.758055556;-76.65527778;Dermal scrape;Human;PCR;L. equatoriensis
+Colombia;6.674444444;-74.83416667;Dermal scrape;Human;PCR;L. equatoriensis
+Colombia;0.513333333;-76.50083333;Dermal scrape;Human;PCR;L. guyanensis
+Colombia;0.685;-76.60444444;Dermal scrape;Human;PCR;L. guyanensis
+Colombia;1.79861;-78.815559;Blood;Human;PCR;L. guyanensis
+Colombia;1.418333333;-75.8775;Dermal scrape;Human;PCR;L. guyanensis
+Colombia;1.804758;-78.765424;Dermal scrape;Human;MLEE;L. guyanensis
+Colombia;1.806667;-78.764722;Biopsy ;Human;Southern Blot;L. guyanensis
+Colombia;1.29;-77.357;Aspiration puncture;Human;PCR;L. guyanensis
+Colombia;1.996263;-77.184102;Biopsy ;Human;IFI;L. guyanensis
+Colombia;2.121666667;-74.76611111;Dermal scrape;Human;PCR;L. guyanensis
+Colombia;2.56;-72.63;Aspiration puncture;Human;PCR;L. guyanensis
+Colombia;3.123888889;-73.75138889;Dermal scrape;Human;PCR;L. guyanensis
+Colombia;3.240833333;-74.35361111;Dermal scrape;Human;PCR;L. guyanensis
+Colombia;3.269166667;-73.37611111;Dermal scrape;Human;PCR;L. guyanensis
+Colombia;3.339;-76.528331;Blood;Human;PCR;L. guyanensis
+Colombia;3.723827;-75.483979;Biopsy ;Human;MLEE;L. guyanensis
+Colombia;3.716667;-75.5;Biopsy ;Dog;PCR;L. guyanensis
+Colombia;3.716667;-75.5;Biopsy ;Dog;ELISA;L. guyanensis
+Colombia;3.841944;-75.565833;Insect;Insect;PCR;L. guyanensis
+Colombia;3.529166667;-75.64472222;Dermal scrape;Human;PCR;L. guyanensis
+Colombia;4.591612;-74.088864;Biopsy ;Human;Monoclonal antibodies;L. guyanensis
+Colombia;4.60971;-74.081749;Mucosal tissue;Human;PCR;L. guyanensis
+Colombia;4.711;-74.072;Aspiration puncture;Human;PCR;L. guyanensis
+Colombia;6.55687;-75.82806;Biopsy ;Human;PCR;L. guyanensis
+Colombia;6.263993;-75.567702;Biopsy ;Human;PCR;L. guyanensis
+Colombia;7.642778;-72.798333;Insect;Insect;MLEE;L. guyanensis
+Colombia;8.172777778;-76.05944444;Dermal scrape;Human;PCR;L. guyanensis
+Colombia;9.525856;-75.227529;Biopsy ;Human;PCR;L. guyanensis
+Colombia;1.79861;-78.81556;Biopsy ;Didelphis marsupialis;MLEE;L. infantum/chagasi
+Colombia;1.79861;-78.81556;Biopsy ;Didelphis marsupialis;MLEE;L. infantum/chagasi
+Colombia;1.79861;-78.81556;Biopsy ;common opossum;MLEE;L. infantum/chagasi
+Colombia;1.787434;-78.791265;Biopsy ;Didelphis marsupialis;MLEE;L. infantum/chagasi
+Colombia;2.741944444;-75.5675;Insect;Reservoir;PCR;L. infantum/chagasi
+Colombia;2.92504;-75.2897;Blood;Dog;ELISA;L. infantum/chagasi
+Colombia;2.9273;-75.281891;Blood;Human;IFI;L. infantum/chagasi
+Colombia;2.95;-75.282109;Blood;Dog;IFI;L. infantum/chagasi
+Colombia;3.240555556;-74.35416667;Dermal scrape;Human;PCR;L. infantum/chagasi
+Colombia;4.092517;-75.154538;Blood;Dog;IFI;L. infantum/chagasi
+Colombia;4.092517;-75.154538;Biopsy ;Human;IFI;L. infantum/chagasi
+Colombia;4.274688;-74.774048;Biopsy ;common opossum;MLEE;L. infantum/chagasi
+Colombia;4.280833333;-74.76472222;Insect;Insect;PCR;L. infantum/chagasi
+Colombia;4.280833333;-74.76472222;Dermal scrape;Reservoir;PCR;L. infantum/chagasi
+Colombia;4.280833333;-74.76472222;Insect;Insect;PCR;L. infantum/chagasi
+Colombia;4.280833333;-74.76472222;Insect;Insect;PCR;L. infantum/chagasi
+Colombia;3.73;-75.156915;Blood;Human;IFI;L. infantum/chagasi
+Colombia;4.3;-74.7;Blood;Dog;ELISA;L. infantum/chagasi
+Colombia;4.458333333;-74.63444444;Dermal scrape;Human;PCR;L. infantum/chagasi
+Colombia;4.553611111;-74.53944444;Dermal scrape;Human;PCR;L. infantum/chagasi
+Colombia;4.64;-74.095176;Biopsy ;Human;IFI;L. infantum/chagasi
+Colombia;3.73;-75.156915;Blood;Dog;IFI;L. infantum/chagasi
+Colombia;3.799339;-75.194595;Blood;Dog;IFI;L. infantum/chagasi
+Colombia;4.570868;-74.297333;Serum;Dog;PCR;L. infantum/chagasi
+Colombia;3.799339;-75.194595;Blood;Dog;IFI;L. infantum/chagasi
+Colombia;3.799;-75.195;Blood;Dog;IFI;L. infantum/chagasi
+Colombia;3.79;-75.197427;Blood;Human;ELISA;L. infantum/chagasi
+Colombia;3.819167;-75.198333;Biopsy ;Human;ELISA;L. infantum/chagasi
+Colombia;5.222288;-76.03105;Insect;Insect;PCR;L. infantum/chagasi
+Colombia;5.222288;-76.03105;Insect;Insect;PCR;L. infantum/chagasi
+Colombia;5.316388889;-74.91111111;Dermal scrape;Human;PCR;L. infantum/chagasi
+Colombia;5.6;-74.18;Dermal scrape;Human;PCR;L. infantum/chagasi
+Colombia;6.881111111;-73.40972222;Dermal scrape;Human;PCR;L. infantum/chagasi
+Colombia;8.75;-75.883333;Insect;Insect;PCR;L. infantum/chagasi
+Colombia;8.844167;-76.038056;Insect;Insect;PCR;L. infantum/chagasi
+Colombia;9.14;-75.508611;Biopsy ;Human;PCR;L. infantum/chagasi
+Colombia;9.145278;-75.508611;Biopsy ;Didelphis marsupialis;PCR;L. infantum/chagasi
+Colombia;9.147;-75.509;Insect;Insect;MLEE;L. infantum/chagasi
+Colombia;9.15;-75.516667;Biopsy ;common opossum;Monoclonal antibodies;L. infantum/chagasi
+Colombia;9.15;-75.516667;Biopsy ;Human;Monoclonal antibodies;L. infantum/chagasi
+Colombia;9.15;-75.516667;Biopsy ;common opossum;PCR;L. infantum/chagasi
+Colombia;10.77111111;-73.00305556;Dermal scrape;Human;PCR;L. infantum/chagasi
+Colombia;0.676666667;-76.87722222;Dermal scrape;Human;PCR;L. lainsoni
+Colombia;5.2;-74.886663;Insect;Insect;MLEE;L. lainsoni
+Colombia;4.1425;-73.62944444;Dermal scrape;Human;PCR;L. lainsoni
+Colombia;7.244166667;-76.43555556;Dermal scrape;Human;PCR;L. lainsoni
+Bolivia;-21.5258333;-64.17194444;;;MLEE;L. lainsoni
+Bolivia;-16.413673;-66.048401;;;PCR-RFLP;L. lainsoni
+Bolivia;-16.732385;-65.638955;;;PCR-RFLP;L. lainsoni
+Bolivia;-17.968138;-66.538445;;;PCR-RFLP;L. lainsoni
+Bolivia;-16.4;-67.516667;;;PCR and Probes;L. lainsoni
+Bolivia;-16.188602;-67.727464;;;PCR-RFLP;L. lainsoni
+Bolivia;-15.239337;-68.747631;;;PCR-RFLP;L. lainsoni
+Bolivia;-16.126423;-67.195789;;;PCR-RFLP;L. lainsoni
+Bolivia;-16.993207;-64.955978;;;MLEE;L. lainsoni
+Brasil;-2.5297201;-44.30278;;;PCR sequencing;L. lainsoni
+Brasil;-4.85889;-43.35611;;;ITS1-PCR, PCR-RFLP;L. lainsoni
+Brasil;-3.766;-49.679;;;isoenzyme electrophoresis;L. lainsoni
+Brasil;-1.02516;-63.2872;;;A panel of 24 monoclonal antibodies;L. lainsoni
+Brasil;-1.766;-55.866;;;Isoenzyme electrophoresis, indirect immunofluorescence antibody test;L. lainsoni
+Brasil;-9.9780556;-67.8116667;;;PCR-RFLP;L. lainsoni
+Colombia;5.200616;-74.88666;;;PCR-RFP;L. lainsoni
+Ecuador;-0.78618;-76.480318;;;Cyt b PCR, Hsp 70 sequencing;L. lainsoni
+Ecuador;-0.039138;-76.511968;;;Cyt b PCR, Hsp 70 sequencing;L. lainsoni
+Ecuador;-0.0675;-77.216944;;;Cyt b sequencing;L. lainsoni
+Ecuador;-2;-78.117547;;;PCR ITS1 and ITS1 sequencing;L. lainsoni
+Peru;-12.022520;-77.0550530;;;PCR-N Hsp70;L. lainsoni
+Peru;-12.022520;-77.0550530;;;PCR Mpi, PCR-RFLP Hsp70, PCR Cpb;L. lainsoni
+Peru;-12.022520;-77.0550530;;;q-PCR;L. lainsoni
+Peru;-11.385833;-69.5152778;;;PCR-RFLP, PCR Mpi, PCR Cpb, PCR Hsp 70;L. lainsoni
+Peru;-11.933540;-69.1190069;;;q-PCR;L. lainsoni
+Peru;-13.163056;-74.2244440;;;PCR-RFLP and sequencing;L. lainsoni
+Peru;-13.260000;-72.1100000;;;Isoenzyme electrophoresis;L. lainsoni
+Peru;-9.929444;-76.2397220;;;Isoenzyme electrophoresis;L. lainsoni
+Peru;-10.500000;-75.3000000;;;Isoenzyme electrophoresis;L. lainsoni
+Peru;-7.200000;-76.8000000;;;Isoenzyme electrophoresis;L. lainsoni
+Suriname;5.066667;-54.966667;;;Isoenzyme electrophoresis;L. lainsoni
+Brasil;-8.783901;-63.856512;;;PCR-RFLP;L. lainsoni
+Colombia;1.61438;-75.606232;Aspiration puncture;Human;PCR;L. mexicana
+Colombia;1.804758;-78.765424;Biopsy ;Human;MLEE;L. mexicana
+Colombia;1.33438;-77.5937;Biopsy ;Human;MLEE;L. mexicana
+Colombia;1.416667;-77.566667;Aspiration puncture;Human;MLEE;L. mexicana
+Colombia;2.43823;-76.613159;Aspiration puncture;Human;PCR;L. mexicana
+Colombia;2.565277778;-72.63861111;Dermal scrape;Human;PCR;L. mexicana
+Colombia;2.572777778;-72.64583333;Dermal scrape;Human;PCR;L. mexicana
+Colombia;3.022222222;-73.40444444;Dermal scrape;Human;PCR;L. mexicana
+Colombia;3.240833333;-74.35361111;Dermal scrape;Human;PCR;L. mexicana
+Colombia;3.269166667;-73.37611111;Dermal scrape;Human;PCR;L. mexicana
+Colombia;3.339233;-76.528052;Biopsy ;Human;MLEE;L. mexicana
+Colombia;3.43722;-76.522499;Aspiration puncture;Human;PCR;L. mexicana
+Colombia;4.084444444;-72.95583333;Dermal scrape;Human;PCR;L. mexicana
+Colombia;4.280833333;-74.76472222;Dermal scrape;Human;PCR;L. mexicana
+Colombia;5.344166667;-74.49166667;Dermal scrape;Human;PCR;L. mexicana
+Colombia;4.63;-74.4625;Biopsy ;Human;MLEE;L. mexicana
+Colombia;5.222288;-76.03105;Insect;Insect;PCR;L. mexicana
+Colombia;5.33775;-72.395859;Aspiration puncture;Human;PCR;L. mexicana
+Colombia;4.60971;-74.081749;Aspiration puncture;Human;PCR;L. mexicana
+Colombia;6.09106;-75.635689;Aspiration puncture;Human;PCR;L. mexicana
+Colombia;6.251564;-75.583347;Biopsy ;Human;PCR;L. mexicana
+Colombia;7.429166667;-75.30722222;Dermal scrape;Human;PCR;L. mexicana
+Colombia;6.681667;-75.218056;Biopsy ;Human;MLEE;L. mexicana
+Colombia;6.770003;-75.192495;Biopsy ;Human;MLEE;L. mexicana
+Colombia;7.740833333;-73.04861111;Dermal scrape;Human;PCR;L. mexicana
+Colombia;10.463;-73.253;Biopsy ;Human;MLEE;L. mexicana
+Colombia;6.252;-75.564;Dermal scrape;Human;PCR;L. naiffi
+Brasil;-8.678172;-52.5349937;;;isoenzyme profiles;L. naiffi
+Brasil;1.703267;-52.243028;;;PCR-RFLP;L. naiffi
+Brasil;-4.063587;-54.908083;;;PCR-RFLP;L. naiffi
+Brasil;-4.85889;-43.35611;;;ITS1-PCR, PCR-RFLP;L. naiffi
+Brasil;-9.01506;-42.6973;;;PCR/DNA sequencing;L. naiffi
+Brasil;-19.921485;-43.923181;;;MLEE;L. naiffi
+Ecuador;-0.212903;-78.492793;;;Cyt b and qPCR;L. naiffi
+Ecuador;0.141944;-79.0925;;;Cyt b and qPCR;L. naiffi
+Ecuador;-0.45;-76.983333;;;Cyt b PCR, cytb b nested PCR;L. naiffi
+Ecuador;-0.45;-76.983333;;;Cyt b sequencing;L. naiffi
+Ecuador;-1.315786;-79.3809851;;;PCR ITS1 and ITS1 sequencing;L. naiffi
+Ecuador;-2.304625;-78.117547;;;PCR ITS1 and ITS1 sequencing;L. naiffi
+Ecuador;-1.383333;-78.116667;;;Cyt b sequencing;L. naiffi
+Suriname;4.840556;-55.073056;;;PCR;L. naiffi
+Suriname;5.6106787;-55.0926;;;PCR;L. naiffi
+Colombia;0.037572222;-73.345;Dermal scrape;Human;PCR;L. panamensis
+Colombia;0.500555556;-76.49888889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;0.685;-76.60444444;Dermal scrape;Human;PCR;L. panamensis
+Colombia;1.004233333;-75.13583333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;1.029444444;-76.61638889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;1.79861;-78.815559;Blood;Human;PCR;L. panamensis
+Colombia;1.787434;-78.791265;Blood;Human;PCR;L. panamensis
+Colombia;1.787434;-78.791265;Blood;Human;PCR;L. panamensis
+Colombia;1.61438;-75.606232;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;1.616666667;-75.6;Dermal scrape;Human;PCR;L. panamensis
+Colombia;1.78709;-78.790504;buccal swabs;Human;PCR;L. panamensis
+Colombia;1.804758;-78.765424;Dermal scrape;Human;MLEE;L. panamensis
+Colombia;1.806666667;-78.76472222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;1.806667;-78.764722;Biopsy ;Human;Southern Blot;L. panamensis
+Colombia;1.29;-77.357;Dermal scrape;No specific;PCR;L. panamensis
+Colombia;1.457777778;-77.10777778;Dermal scrape;Human;PCR;L. panamensis
+Colombia;1.473888889;-77.08083333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;1.996263;-77.184102;Biopsy ;Human;IFI;L. panamensis
+Colombia;2.121666667;-74.76611111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;2.182777778;-73.78472222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;2.5;-72.6;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;2.889166667;-72.12555556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;2.891666667;-75.4375;Dermal scrape;Reservoir;PCR;L. panamensis
+Colombia;2.891666667;-75.4375;Dermal scrape;Reservoir;PCR;L. panamensis
+Colombia;2.92504;-75.2897;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;2.938333333;-73.20833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;2.969166667;-73.90055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;3.123888889;-73.75138889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;3.240833333;-74.35361111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;3.339;-76.528331;Blood;Human;PCR;L. panamensis
+Colombia;3.339233;-76.528052;Dermal scrape;Human;MLEE;L. panamensis
+Colombia;4.330833333;-73.28416667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;8.425833333;-76.78388889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.933055556;-76.71638889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.758055556;-76.65527778;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.198888889;-74.89305556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.198888889;-74.89305556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.198888889;-74.89305556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.198888889;-74.89305556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.198888889;-74.89305556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.198888889;-74.89305556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;3.733333333;-73.25;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.198888889;-74.89305556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.198888889;-74.89305556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.198888889;-74.89305556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.966666667;-74.9;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.133333333;-74.95;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.133333333;-74.95;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.133333333;-74.95;Dermal scrape;Human;PCR;L. panamensis
+Colombia;3.870833333;-67.92111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.312977;-72.083573;Biopsy ;Human;PCR;L. panamensis
+Colombia;4;-69.932778;Blood;Dog;IFI;L. panamensis
+Colombia;4.084444444;-72.95583333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.089722222;-72.96194444;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.030555556;-75.11611111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.030555556;-75.11611111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.15;-73.633;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;4.280833333;-74.76472222;Insect;Insect;PCR;L. panamensis
+Colombia;4.748055556;-74.56305556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.445555556;-69.79888889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.437222222;-74.52166667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.437222222;-74.52166667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.344166667;-74.49166667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.187222222;-74.48111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.008888889;-74.47222222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.008888889;-74.47222222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.008888889;-74.47222222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.763333333;-74.46472222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.763333333;-74.46472222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.069722222;-74.37805556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.459444444;-74.33833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.974166667;-76.22833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.978644;-75.8287;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;5.459444444;-74.33833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.459444444;-74.33833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.459444444;-74.33833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.459444444;-74.33833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.459444444;-74.33833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.459444444;-74.33833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.459444444;-74.33833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.100277778;-76.54555556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.363611111;-74.14583333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.163333333;-76.68666667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.16549;-75.7668;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;5.363611111;-74.14583333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.363611111;-74.14583333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.363611111;-74.14583333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.43889;-75.232224;Biopsy ;Human;Monoclonal antibodies;L. panamensis
+Colombia;3.723827;-75.483979;Biopsy ;Human;MLEE;L. panamensis
+Colombia;3.723827;-75.483979;Biopsy ;Human;MLEE;L. panamensis
+Colombia;3.723611111;-75.48472222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;3.529166667;-75.64472222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.758055556;-76.65527778;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.758055556;-76.65527778;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.884722222;-76.635;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.266111111;-76.565;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.296666667;-75.055;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.316388889;-74.91111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.316388889;-74.91111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.316388889;-74.91111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.316388889;-74.91111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.316388889;-74.91111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.316388889;-74.91111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.316388889;-74.91111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.316388889;-74.91111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.316388889;-74.91111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.363611111;-74.14583333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.363611111;-74.14583333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.363611111;-74.14583333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;4.591612;-74.088864;Biopsy ;Human;Monoclonal antibodies;L. panamensis
+Colombia;4.60971;-74.081749;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;4.60971;-74.081749;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;5.4125;-74.99222222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.4125;-74.99222222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.424444444;-74.89666667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.454167;-73.361944;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;5.454167;-73.361944;Insect;Insect;PCR;L. panamensis
+Colombia;4.711;-74.072;Biopsy ;Human;MLEE;L. panamensis
+Colombia;5.515277778;-76.97472222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.525833333;-76.995;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.657777778;-74.18055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.657777778;-74.18055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.657777778;-74.18055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.657777778;-74.18055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.657777778;-74.18055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.663055556;-74.06333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.663055556;-74.06333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.663055556;-74.06333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.69188;-76.65835;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;5.8575;-73.96555556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.8575;-73.96555556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.883055556;-76.62583333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.883055556;-76.62583333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.880555556;-71.89194444;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.918333333;-73.79111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.918333333;-73.79111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.4225;-76.5325;Dermal scrape;Human;PCR;L. panamensis
+Colombia;8.761111111;-76.52861111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.964241667;-74.48816667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.964241667;-74.48816667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.964241667;-74.48816667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.975833333;-74.58833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.975833333;-74.58833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.975833333;-74.58833333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.013333333;-73.67361111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.997777778;-76.49333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.997777778;-76.49333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.178611111;-73.58944444;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218055556;-73.81138889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.218333333;-73.81111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.22245;-77.400768;Skin Test;Human;Monoclonal antibodies;L. panamensis
+Colombia;7.244166667;-76.43555556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.244166667;-76.43555556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.244166667;-76.43555556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.244166667;-76.43555556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.314166667;-73.94972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.314166667;-73.94972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.314166667;-73.94972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.314166667;-73.94972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.314166667;-73.94972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.314166667;-73.94972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.314166667;-73.94972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.314166667;-73.94972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.314166667;-73.94972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.314166667;-73.94972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.314166667;-73.94972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.314166667;-73.94972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.321666667;-73.34666667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.34;-73.61694444;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.001388889;-76.26111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.001388889;-76.26111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.35;-76.23333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.315277778;-76.13416667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.238333333;-76.03638889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.238333333;-76.03638889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.238333333;-76.03638889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.238333333;-76.03638889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.55687;-75.82806;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;6.698055556;-73.51111111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.55687;-75.82806;Biopsy ;Human;PCR;L. panamensis
+Colombia;6.881111111;-73.40972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.881111111;-73.40972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.881111111;-73.40972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.881111111;-73.40972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.881111111;-73.40972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.881111111;-73.40972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.881111111;-73.40972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.881111111;-73.40972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.881944;-73.411944;Skin Test;Human;ELISA;L. panamensis
+Colombia;7.171111111;-75.76416667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.09106;-75.635689;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;6.263993;-75.567702;Biopsy ;Human;PCR;L. panamensis
+Colombia;7.0675;-73.84722222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.946445;-75.523721;Insect;Insect;MLEE;L. panamensis
+Colombia;5.946445;-75.523721;Skin Test;Human;MLEE;L. panamensis
+Colombia;7.078611111;-73.19722222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.078611111;-73.19722222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.828333333;-75.51305556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.12539;-73.119797;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;6.828333333;-75.51305556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.163611111;-75.43916667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.583611111;-75.40055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.583611111;-75.40055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.583611111;-75.40055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.583611111;-75.40055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.583611111;-75.40055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.583611111;-75.40055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.583611111;-75.40055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.583611111;-75.40055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.287777778;-75.39444444;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.287777778;-75.39444444;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.287777778;-75.39444444;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.710555556;-75.31055556;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.429166667;-75.30722222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.429166667;-75.30722222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.429166667;-75.30722222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.298888889;-72.49472222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.382222222;-77.11083333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.073611111;-75.14694444;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.485;-75.01972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.485;-75.01972222;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.489722222;-74.86916667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.489722222;-74.86916667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.592777778;-74.80861111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.407222222;-74.75666667;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.08;-74.69888889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.8725;-74.64027778;Dermal scrape;Human;PCR;L. panamensis
+Colombia;5.8725;-74.64027778;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.642778;-72.798333;Insect;Insect;MLEE;L. panamensis
+Colombia;5.8725;-74.64027778;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.030833333;-74.53333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.713055556;-72.6575;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.740833333;-73.04861111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.740833333;-73.04861111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.030833333;-74.53333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.491666667;-74.40333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.491666667;-74.40333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.491666667;-74.40333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;3.5;-73.7;Dermal scrape;Human;PCR;L. panamensis
+Colombia;6.3725;-73.23333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.153611111;-73.15361111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.957777778;-73.94361111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.153611111;-73.15361111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.153611111;-73.15361111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;8.172777778;-76.05944444;Dermal scrape;Human;PCR;L. panamensis
+Colombia;8.172777778;-76.05944444;Dermal scrape;Human;PCR;L. panamensis
+Colombia;8.246111111;-73.35527778;Dermal scrape;Human;PCR;L. panamensis
+Colombia;8.3125;-75.145;Dermal scrape;Human;PCR;L. panamensis
+Colombia;7.153611111;-73.15361111;Dermal scrape;Human;PCR;L. panamensis
+Colombia;8.512777778;-73.45083333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;8.616666667;-77.33333333;Dermal scrape;Human;PCR;L. panamensis
+Colombia;8.74798;-75.881432;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;8.75;-75.883333;Insect;Insect;PCR;L. panamensis
+Colombia;8.844167;-76.038056;Insect;Insect;PCR;L. panamensis
+Colombia;9.437777778;-74.79527778;Dermal scrape;Human;PCR;L. panamensis
+Colombia;9.52;-75.227786;Biopsy ;Dog;IFI;L. panamensis
+Colombia;9.525856;-75.227529;Biopsy ;Human;PCR;L. panamensis
+Colombia;9.532;-75.224;Biopsy ;Human;PCR;L. panamensis
+Colombia;9.5325;-75.22388889;Dermal scrape;Human;PCR;L. panamensis
+Colombia;10.39972;-75.514442;Aspiration puncture;Human;PCR;L. panamensis
+Colombia;10.52055556;-74.185;Dermal scrape;Human;PCR;L. panamensis
+Brasil;-6.1086;-49.3465;;;isoenzyme profiles;L. shawi
+Brasil;-4.0636;-54.9081;;;PCR-RFLP;L. shawi
+Brasil;-4.8589;-43.3561;;;ITS1-PCR, PCR-RFLP;L. shawi
+Brasil;-22.6617;-50.4122;;;PCR-RFLP;L. shawi
+Brasil;-9.0151;-42.6973;;;PCR/DNA sequencing;L. shawi
+Brasil;-4.293;-47.557;;;isoenzyme electrophoresis;L. shawi
+Brasil;-8.0585;-34.8885;;;MLEE;L. shawi
+Ecuador;0.0853;-79.0511;;;Cyt b qPCR;L. shawi
+Peru;-11.187500;-74.6381000;;;PCR-RFLP and sequencing;L. shawi
+Brasil;-8.7839;-63.8565;;;PCR-RFP;L. shawi
+Brasil;-14.4387;-48.4642;;;PCR with isoenzymes;L. shawi
+Brasil;-15.77972;-47.92972;;;PCR secuenciamiento;L. hertigi
+Brasil;-1.186417;-55.5024986;;;LnPCR, PCR sequencing;L. hertigi
+Brasil;-1.39;-48.870833;;;isoenzyme electrophoresis;L. hertigi
+Brasil;-1.505833;-48.625833;;;isoenzyme electrophoresis;L. hertigi
+Brasil;-1.423038;-48.426305;;;isoenzyme electrophoresis;L. hertigi
+Brasil;-1.681944;-50.48;;;isoenzyme electrophoresis;L. hertigi
+Costa Rica;9.75;-84.233333;;;;L. hertigi
+Argentina;-24.782127;-65.4232;;;PS-PCR;L. panamensis
+Brasil;-22.878656;-43.2429798;;;PCR and probes;L. panamensis
+Costa Rica;9.740384;-84.242662;;;MLEE;L. panamensis
+Costa Rica;9.339219;-83.644586;;;MLEE;L. panamensis
+Costa Rica;10.218161;-84.572074;;;MLEE;L. panamensis
+Costa Rica;10.620418;-84.425815;;;MLEE;L. panamensis
+Costa Rica;10.859183;-84.715463;;;MLEE;L. panamensis
+Costa Rica;10.592536;-83.968756;;;MLEE;L. panamensis
+Costa Rica;9.082514;-83.246502;;;MLEE;L. panamensis
+Costa Rica;8.535735;-83.305898;;;MLEE;L. panamensis
+Costa Rica;9.780971;-83.498234;;;MLEE;L. panamensis
+Costa Rica;10.202412;-83.657586;;;MLEE;L. panamensis
+Costa Rica;10.362881;-83.735442;;;MLEE;L. panamensis
+Costa Rica;10.214784;-83.786999;;;MLEE;L. panamensis
+Costa Rica;10.152187;-83.47998;;;MLEE;L. panamensis
+Costa Rica;10.171951;-83.604714;;;MLEE;L. panamensis
+Costa Rica;9.994899;-83.03046;;;MLEE;L. panamensis
+Costa Rica;9.41938;-83.200659;;;MLEE;L. panamensis
+Costa Rica;9.505422;-82.614567;;;MLEE;L. panamensis
+Ecuador;-0.894209;-79.80478;;;Isoenzyme electrophoresis;L. panamensis
+Ecuador;-0.267795;-79.467697;;;PS-PCR;L. panamensis
+Ecuador;-0.93;-79.22;;;PCR;L. panamensis
+Mexico;20.214722;-87.428889;;;Fe-SODe-ELISA, western blot;L. panamensis
+Nicaragua;13.336337;-85.371299;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;13.533333;-85.533333;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;11.2363712;-84.5573685;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;13.197084;-85.825056;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;11.158158;-84.628951;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;13.734441;-84.777926;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;13.116667;-84.183333;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;12.007613;-85.964157;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;11.826805;-86.053899;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;12.167612;-84.227975;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;12.030454;-85.925287;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;13.817889;-85.687399;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;13.758587;-86.01793;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;12.921421;-85.228516;;;Isoenzyme electrophoresis, DNA fingerprinting;L. panamensis
+Nicaragua;12.167612;-84.2279751;;;Isoenzyme electrophoresis, monoclonal antibodies;L. panamensis
+Nicaragua;11.2363712;-84.5573685;;;Isoenzyme electrophoresis, monoclonal antibodies;L. panamensis
+Nicaragua;13.654628;-86.146593;;;Isoenzyme electrophoresis, monoclonal antibodies;L. panamensis
+Nicaragua;13.0900805;-86.3546423;;;Isoenzyme electrophoresis, monoclonal antibodies;L. panamensis
+Nicaragua;13.197084;-85.825056;;;Isoenzyme electrophoresis, monoclonal antibodies;L. panamensis
+Nicaragua;13.542727;-85.538539;;;Isoenzyme electrophoresis, monoclonal antibodies;L. panamensis
+Nicaragua;13.817889;-85.687399;;;Isoenzyme electrophoresis, monoclonal antibodies;L. panamensis
+Panama;8.97032;-79.533543;;;Isoenzyme electrophoresis, monoclonal antibodies;L. panamensis
+Panama;8.97032;-79.533543;;;Isoenzyme electrophoresis, monoclonal antibodies;L. panamensis
+Brasil;3.338833;-76.528352;;;PCRHsp-70/RFLP;L. panamensis
+Panama;8.97032;-79.533543;;;PCR-RFLP;L. panamensis
+Mexico;18.931;-90.262;;;Isoenzyme electroforesis;L. peruviana
+Peru;-8.557800;-77.6258000;;;PCR Hsp 70, sequencing;L. peruviana
+Peru;-5.200800;-80.6253000;;;PCR-RFLP;L. peruviana
+Peru;-12.020966;-77.0562520;;;PCR-N Hsp70;L. peruviana
+Peru;-12.020966;-77.0562520;;;q-PCR;L. peruviana
+Peru;-12.020966;-77.0562520;;;PCR-RFLP, PCR Mpi, PCR Cpb, PCR Hsp 70;L. peruviana
+Peru;-12.035000;-77.0186000;;;PCR;L. peruviana
+Peru;-12.020966;-77.0562520;;;PCR-RFLP;L. peruviana
+Peru;-7.916700;-78.7167000;;;PCR and PCR-RFLP;L. peruviana
+Peru;-12.020966;-77.0562520;;;PCR, PCR-RFLP;L. peruviana
+Peru;-12.020966;-77.0562520;;;PCR-RFLP and PCR;L. peruviana
+Peru;-7.908600;-78.6850000;;;PCR and PCR-RFLP;L. peruviana
+Peru;-12.035000;-77.0186000;;;PCR-RFLP and sequencing;L. peruviana
+Peru;-12.022500;-77.0556000;;;PCR-RFLP;L. peruviana
+Peru;-10.250000;-77.4833000;;;Sequencing;L. peruviana
+Peru;-11.940900;-76.5065000;;;PCR and PCR-RFLP;L. peruviana
+Peru;-7.363100;-77.8400000;;;Isoenzyme electrophoresis;L. peruviana
+Peru;-15.216700;-73.9833000;;;PCR, MLEE and molecular karyotyping;L. peruviana
+Peru;-11.489200;-76.6619000;;;Isoenzyme electrophoresis and PCR;L. peruviana
+Peru;-10.664700;-76.2522000;;;Isoenzyme electrophoresis;L. peruviana
+Peru;-9.533300;-77.5350000;;;Isoenzyme electrophoresis, kinetoplast DNA hybridization, monoclonal antibody;L. peruviana
+Peru;-7.908600;-78.6850000;;;PCR MPI and Cyt b sequencing;L. peruviana
+Peru;-11.940900;-76.5065000;;;PCR-RFLP cpb and hsp70;L. peruviana
+Argentina;-24.7821;-65.4232;dermal scapings;Human;PCR DNA sequencing;L. guyanensis
+Argentina;-24.7821;-65.4232;dermal scapings;Human;PS-PCR;L. guyanensis
+Argentina;-24.7821;-65.4232;dermal scapings;Human;PS-PCR;L. guyanensis
+Argentina;-24.7821;-65.4232;dermal scapings;Human;MLEE;L. guyanensis
+Argentina;-24.7821;-65.4232;Lesion aspirate;Human;PCR sequencing;L. guyanensis
+Bolivia;-17.389;-66.157;Insects, biopsy;Human;PCR-RFLP;L. guyanensis
+Brasil;0.902;-52.003;insect;;;L. guyanensis
+Brasil;-4.0636;-54.9081;insect;;;L. guyanensis
+Brasil;-4.8589;-43.3561;blood;;;L. guyanensis
+Brasil;-3.1072;-60.0261;Biopsy;;;L. guyanensis
+Brasil;-11;-68.7333;Skin biopsy;;;L. guyanensis
+Brasil;-22.6617;-50.4122;Biopsy;;;L. guyanensis
+Brasil;-14.9037;-44.2739;Blood;;;L. guyanensis
+Brasil;-5.9566;-54.3223;Insect;;;L. guyanensis
+Brasil;-0.84;-52.519;Blood, biopsy;;;L. guyanensis
+Brasil;-2.9634;-59.9229;Blood;;;L. guyanensis
+Brasil;-12.5817;-69.203;Insect;;;L. guyanensis
+Brasil;-9.0151;-42.6973;Biopsys of spleen;;;L. guyanensis
+Brasil;-3.1072;-60.0261;Biopsys and Lesions;;;L. guyanensis
+Brasil;-4.293;-47.557;Strains from human case;;;L. guyanensis
+Brasil;-3.1194;-60.0241;Biopsy;;;L. guyanensis
+Brasil;-19.9215;-43.9232;Blood;;;L. guyanensis
+Brasil;-10.2516;-63.2872;Biopsy;;;L. guyanensis
+Brasil;-15.78;-47.93;Direct smear;;;L. guyanensis
+Brasil;-4.4799;-63.5187;Biopsy;;;L. guyanensis
+Brasil;-4.4799;-63.5187;Biopsy;;;L. guyanensis
+Brasil;-4.4799;-63.5187;Biopsy;;;L. guyanensis
+Brasil;-22.9369;-43.1845;Biopsy;;;L. guyanensis
+Brasil;-3.1194;-60.0241;Biopsy;;;L. guyanensis
+Brasil;-3.1194;-60.0241;Biopsy;;;L. guyanensis
+Brasil;-1.766;-55.866;Biopsy;;;L. guyanensis
+Brasil;-20.4428;-54.6464;Insect;;;L. guyanensis
+Brasil;-20.3194;-40.3378;Biopsy;;;L. guyanensis
+Brasil;-3.1194;-60.0241;Biopsy;;;L. guyanensis
+Brasil;-15.78;-47.93;Biopsy;;;L. guyanensis
+Brasil;-10.9414;-69.5669;Insect;;;L. guyanensis
+Brasil;-3.0844;-56.0878;Insect;;;L. guyanensis
+Brasil;-9.9781;-67.8117;Biopsy;;;L. guyanensis
+Ecuador;-0.181;-78.468;Biopsy;;;L. guyanensis
+Ecuador;0.089;-76.89;Scraping, smear;;;L. guyanensis
+Ecuador;-0.455;-76.995;Scraping, smear;;;L. guyanensis
+Ecuador;-0.181;-78.468;Biopsy;;;L. guyanensis
+Ecuador;-0.181;-78.468;Biopsy;;;L. guyanensis
+Ecuador;0.0997;-79.2936;Scraping;;;L. guyanensis
+Mexico;18.2832;-92.3468;Skin biopsies;;;L. guyanensis
+Mexico;19.2131;-90.2882;Skin biopsies;;;L. guyanensis
+Mexico;18.681;-88.393;Skin biopsies;;;L. guyanensis
+Mexico;19.1735;-96.1365;Skin biopsies;;;L. guyanensis
+Mexico;18.2373;-90.3195;Skin biopsies;;;L. guyanensis
+Mexico;21.9405;-104.8036;Skin biopsies;;;L. guyanensis
+Peru;-12.120300;-69.0754000;Insect;;;L. guyanensis
+Peru;-11.331800;-69.6057000;Insect;;;L. guyanensis
+Peru;-12.583000;-69.1930000;Insect;;;L. guyanensis
+Peru;-9.930000;-76.2430000;Giemsa-stained smears;;;L. guyanensis
+Peru;-11.982000;-77.0970000;Biopsy, scraping;;;L. guyanensis
+Peru;-4.232000;-74.2180000;Biopsy, scraping, aspirate;;;L. guyanensis
+Peru;-7.244000;-76.8260000;Biopsy, scraping, aspirate;;;L. guyanensis
+Peru;-12.046000;-77.0430000;Biopsy, scraping;;;L. guyanensis
+Peru;-12.046000;-77.0430000;Smear, scraping;;;L. guyanensis
+Peru;-12.046000;-77.0430000;Biopsy;;;L. guyanensis
+Peru;-12.046000;-77.0430000;Biopsy, aspirate and scraping;;;L. guyanensis
+Peru;-7.916700;-78.7167000;Insect;;;L. guyanensis
+Peru;-12.046000;-77.0430000;Scraping, aspirate, urine and filter paper lesion impressions;;;L. guyanensis
+Peru;-5.115000;-78.1110000;Biopsy;;;L. guyanensis
+Peru;-9.325000;-77.5620000;Biopsy;;;L. guyanensis
+Peru;-14.050000;-73.0880000;Biopsy;;;L. guyanensis
+Peru;-13.164000;-74.2240000;Biopsy;;;L. guyanensis
+Peru;-7.162000;-78.5130000;Biopsy;;;L. guyanensis
+Peru;-13.532000;-71.9670000;Biopsy;;;L. guyanensis
+Peru;-11.158000;-75.9930000;Biopsy;;;L. guyanensis
+Peru;-8.144000;-78.4750000;Biopsy;;;L. guyanensis
+Peru;-6.478000;-79.9190000;Biopsy;;;L. guyanensis
+Peru;-6.701000;-79.9060000;Biopsy;;;L. guyanensis
+Peru;-3.749000;-73.2540000;Biopsy;;;L. guyanensis
+Peru;-10.667000;-76.2570000;Biopsy;;;L. guyanensis
+Peru;-6.501000;-76.3660000;Biopsy;;;L. guyanensis
+Peru;-5.194000;-80.6330000;Biopsy;;;L. guyanensis
+Peru;-12.046000;-77.0430000;Scrapings, aspirates, and filter paper impressions;;;L. guyanensis
+Peru;-12.046000;-77.0430000;Aspirates and biopsy;;;L. guyanensis
+Peru;-13.523000;-71.9670000;Aspirates and biopsy;;;L. guyanensis
+Peru;-12.868000;-72.6920000;Aspirates and biopsy;;;L. guyanensis
+Peru;-12.046000;-77.0430000;Insect and Scraping;;;L. guyanensis
+Peru;-11.454000;-69.3220000;Ticks;;;L. guyanensis
+Suriname;5.852;-55.204;Biopsy;Human;PCR-RFLP, spliced leader RNA gene and hsp70 gene;L. guyanensis
+Suriname;5.852;-55.204;Biopsy;Human;PCR;L. guyanensis
+Venezuela;8.2944;-71.7642;Biopsy;Rat;Hybridization, restriction enzyme analysis;L. guyanensis
+Venezuela;10.406;-63.298;Scraping;Human;Isoenzyme Electrophoresis;L. guyanensis
+Venezuela;10.211;-66.868;Scraping;Human;Isoenzyme Electrophoresis;L. guyanensis
+Venezuela;9.883;-65.428;Scraping;Human;Isoenzyme Electrophoresis;L. guyanensis
+Venezuela;10.2859;-69.1623;Biopsy,Blood and insect;Human, Dog and Sandflies;enzyme electrophoresis;L. guyanensis
+Venezuela;8.188;-73.2526;Insect, Biopsy;;PCR, enzyme electrophoresis;L. guyanensis
+Brasil;-8.7839;-63.8565;biopsy;;;L. guyanensis
+Brasil;-16.687;-49.265;Skin biopsy;;;L. guyanensis
+Brasil;-3.119;-60.022;Skin biopsy;;;L. guyanensis
+Brasil;-3.119;-60.022;Skin biopsy;;;L. guyanensis
+Brasil;-2.443;-54.708;Skin biopsy;;;L. guyanensis
+Brasil;-21.1767;-47.8208;Biopsy;;;L. guyanensis
+Argentina;-25.547778;-54.588056;Spleen and skin;;;L. braziliensis
+Argentina;-24.782127;-65.4232;dermal scapings;;MLEE;L. braziliensis
+Argentina;-24.782127;-65.4232;dermal scapings;;PCR DNA sequencing;L. braziliensis
+Argentina;-28.63593;-65.13102;dermal scapings;;Molecular methods;L. braziliensis
+Argentina;-26.82414;-65.2226;biopsy;;PCR and Probes;L. braziliensis
+Argentina;-26.01517;-54.67306;Insects;;PCR sequencing, RFLP;L. braziliensis
+Argentina;-28.63593;-65.13102;biopsy;;MLEE;L. braziliensis
+Argentina;-24.782127;-65.4232;dermal scapings;;PS-PCR;L. braziliensis
+Argentina;-25.966667;-54.183333;blood;;PCR sequencing, RFLP;L. braziliensis
+Argentina;-24.782127;-65.4232;dermal scapings;;monoclonal antibodies;L. braziliensis
+Argentina;-22.86667;-62.93333;Insects;;PCR-RFLP;L. braziliensis
+Argentina;-24.782127;-65.4232;Insects;;PCR and Probes;L. braziliensis
+Argentina;-24.782127;-65.4232;dermal scapings;;PS-PCR;L. braziliensis
+Argentina;-24.782127;-65.4232;dermal scapings;;MLEE;L. braziliensis
+Argentina;-24.782127;-65.4232;Lesion aspirate;;PCR sequencing;L. braziliensis
+Belize;17.25;-88.766;biopsy;;immunohistochemistry;L. braziliensis
+Belize;17.25;-88.766;dermal scapings;;MLEE;L. braziliensis
+Belize;17.25;-88.766;biopsy;;PCR-RFLP;L. braziliensis
+Belize;17.25;-88.766;biopsy;;PCR;L. braziliensis
+Belize;17.25;-88.766;biopsy;;MLEE;L. braziliensis
+Bolivia;-17.3895;-66.1568;biopsy;;PCR-RFLP;L. braziliensis
+Bolivia;-17.3895;-66.1568;Lesion aspirate;;PCR-RFLP;L. braziliensis
+Bolivia;-15.8167;-67.55;Lesion aspirate;;MLEE;L. braziliensis
+Bolivia;-17.3895;-66.1568;Insects. biopsy;;PCR-RFLP;L. braziliensis
+Bolivia;-16.3333;-66.75;blood and lesion aspirate;;PCR and Probes;L. braziliensis
+Bolivia;-16.3333;-66.75;Lesion aspirate;;monoclonal antibodies;L. braziliensis
+Bolivia;-16.3333;-66.75;biopsy;;MLEE;L. braziliensis
+Bolivia;-16.3333;-66.75;Insects;;PCR;L. braziliensis
+Bolivia;-16.3333;-66.75;Lesion aspirate;;MLEE;L. braziliensis
+Bolivia;-16.5;-68.15;biopsy;;PCR;L. braziliensis
+Bolivia;-16.5;-68.15;biopsy;;PCR;L. braziliensis
+Bolivia;-16.5;-68.15;biopsy;;PCR;L. braziliensis
+Bolivia;-17.3895;-66.1568;dermal scapings;;PCR-RFLP;L. braziliensis
+Bolivia;-16.5;-68.15;biopsy;;MLEE;L. braziliensis
+Bolivia;-15.805;-67.2;Insects;;MLEE;L. braziliensis
+Bolivia;-16.5;-68.15;Lesion aspirate;;PCR-RFLP;L. braziliensis
+Bolivia;-16.5;-68.15;Insects. lesion aspirate. biopsy;;MLEE;L. braziliensis
+Nicaragua;12.192;-84.101;Aspirates;;Isoenzyme electrophoresis, DNA fingerprinting;L. braziliensis
+Nicaragua;13.088;-85.999;Aspirates;;Isoenzyme electrophoresis, DNA fingerprinting;L. braziliensis
+Nicaragua;13.629;-86.484;Aspirates;;Isoenzyme electrophoresis, DNA fingerprinting;L. braziliensis
+Nicaragua;12.929;-85.915;Aspirates;;Isoenzyme electrophoresis, DNA fingerprinting;L. braziliensis
+Nicaragua;11.939;-85.189;Aspirates;;Isoenzyme electrophoresis, DNA fingerprinting;L. braziliensis
+Nicaragua;13.085;-86.363;Biopsy;;Isoenzyme electrophoresis;L. braziliensis
+Nicaragua;12.929;-85.915;Biopsy;;Isoenzyme electrophoresis;L. braziliensis
+Nicaragua;13.088;-85.999;Biopsy;;Isoenzyme electrophoresis;L. braziliensis
+Nicaragua;12.192;-84.101;Biopsy;;Isoenzyme electrophoresis;L. braziliensis
+Nicaragua;11.939;-85.189;Biopsy;;Isoenzyme electrophoresis;L. braziliensis
+Ecuador;0.0247;-78.8814;Insect;;Multiplex PCR, kDNA PCR and L. donovani-specific PCR;L. braziliensis
+Ecuador;-4.8628;-79.1328;Scraping;;Nested PCR;L. braziliensis
+Ecuador;-0.0833;-76.8833;Scraping, smear;;Cyt b PCR, Hsp 70 sequencing;L. braziliensis
+Ecuador;-0.45;-76.9833;Insect, scrapings;;Cyt b PCR, cytb b nested PCR;L. braziliensis
+Ecuador;1.2028;-78.8686;Insect, scrapings;;Cyt b PCR, cytb b nested PCR;L. braziliensis
+Ecuador;0.9592;-79.654;Insect, scrapings;;Cyt b PCR, cytb b nested PCR;L. braziliensis
+Ecuador;-0.2252;-78.524;Biopsy;;Cyt b sequencing ;L. braziliensis
+Ecuador;-0.2252;-78.524;Biopsy;;MLEE;L. braziliensis
+Ecuador;0.0247;-78.8814;Biopsy and Scraping;;PCR;L. braziliensis
+Guatemala;15.7835;-90.2308;Lesion aspirate;;MLEE;L. braziliensis
+Guatemala;15.7835;-90.2308;Biopsy;;PCR-RFLP;L. braziliensis
+Guatemala;17.6333;-89.6333;Insect;;MLEE;L. braziliensis
+Guatemala;15.7835;-90.2308;Biopsy;;PCR-RFLP;L. braziliensis
+Mexico;20.8871;-90.3086;Biopsy;;Fe-SODe-ELISA, western blot;L. braziliensis
+Mexico;20.2119;-87.4658;Biopsy;;Fe-SODe-ELISA, western blot;L. braziliensis
+Mexico;17.6636;-93.4469;Biopsy;;PCR specific primers (B1 and B2);L. braziliensis
+Mexico;19.4978;-99.1269;Biopsy;;PCR sequencing;L. braziliensis
+Mexico;22.9778;-99.1406;Biopsy;;Monoclonal antibodies;L. braziliensis
+Mexico;20.7099;-89.0943;Blood;;PCR specific primers/ Isoenzyme electroforesis;L. braziliensis
+Mexico;16.607;-93.562;Isolates;;Isoenzyme electroforesis;L. braziliensis
+Mexico;21.863;-102.911;Biopsy;;PCR-RFLP;L. braziliensis
+Mexico;19.8439;-90.5255;Biopsy;;ELISA;L. braziliensis
+Mexico;19.8454;-90.5237;Biopsy;;PCR specific primers (B1, B2);L. braziliensis
+Mexico;20.8333;-89;Blood;;PCR specific primers (B1, B2, B18);L. braziliensis
+Mexico;19.2131;-90.2882;Bone marrow, aspirates and skin biopsies;;PCR;L. braziliensis
+Mexico;19.8286;-90.538;Aspirates;;PCR;L. braziliensis
+Costa Rica;10.0333;-83.2167;Biopsy;;PCR;L. braziliensis
+Costa Rica;9.9333;-84.0833;Lesion aspirate;;PCR;L. braziliensis
+Venezuela;10.5167;-66.5667;Insect;;PCR, DNA probes;L. braziliensis
+Venezuela;10.4806;-66.9036;Biopsy;;Isoenzyme Electrophoresis, PCR;L. braziliensis
+Venezuela;7.815;-72.443;Insect;;Isoenzyme Electrophoresis;L. braziliensis
+Venezuela;10.251;-66.427;Scraping;;Isoenzyme Electrophoresis;L. braziliensis
+Venezuela;5.347;-61.701;Scraping;;Isoenzyme Electrophoresis;L. braziliensis
+Venezuela;9.555;-69.196;Scraping;;Isoenzyme Electrophoresis, monoclonal antibody analysis;L. braziliensis
+Venezuela;10.065;-69.357;Scraping;;PCR specific primers;L. braziliensis
+Venezuela;8.425;-71.43;Skin biopsy;;PCR multiplex;L. braziliensis
+Venezuela;8.57;-71.18;Biopsy;;PCR hibriditation;L. braziliensis
+Venezuela;10.47;-68.03;Insect;;PCR specific primers;L. braziliensis
+Venezuela;2.81;-65.096;Skin biopsy;;PCR;L. braziliensis
+Venezuela;10.4811;-66.2394;Biopsy;;PCR Specific primers (LB1,LB2,Lm1 and Lm2);L. braziliensis
+Venezuela;10.6112;-66.8522;Biopsy;;PCR Specific primers;L. braziliensis
+Venezuela;7.8833;-70.3333;Insect;;PCR specific primers and Isoenzyme electrophoresis;L. braziliensis
+Venezuela;6.2498;-67.3784;Blood and biopsy;;PCR and ELISA;L. braziliensis
+Venezuela;10.6222;-66.5735;Biopsy bone marrow;;PCR Specific primers (L.cyt-AS and L.cyt-AR);L. braziliensis
+Venezuela;10.0647;-69.357;Biopsy;;PCR Specific primers;L. braziliensis
+Venezuela;8.5897;-71.1561;Biopsy;;enzyme electrophoresis;L. braziliensis
+Venezuela;10.2859;-69.1623;Biopsy,Blood and insect;;PCR Specific primers (3J1 and 3J2);L. braziliensis
+Venezuela;10.4806;-66.9036;biopsies,blood, liver, spleen and Insect;;PCR Specific primers (LU-5A and LM-3A);L. braziliensis
+Venezuela;10.6456;-63.0389;Insect;;PCR Specific primers (LU-5A and LM-3A);L. braziliensis
+Venezuela;10.6456;-63.0389;Insect;;PCR;L. braziliensis
+Venezuela;8.59;-71.156;Biopsy;;PCR specific primers ;L. braziliensis
+Venezuela;8.489;-71.538;Blood sample;;PCR specific primers ;L. braziliensis
+Venezuela;9.697;-68.668;Biopsy;;Isoenzyme Electrophoresis;L. braziliensis
+Venezuela;10.0333;-66.9863;Insect, Biopsy;;PCR, enzyme electrophoresis;L. braziliensis
+Venezuela;10.2506;-66.4272;Insect;;PCR specific primers ;L. braziliensis
+Brasil;-18.9833;-57.6547;epithelial wing tissue;;PCR-RFLP;L. braziliensis
+Brasil;-19.8157;-43.9542;Skin biopsies;;PCR and probes;L. braziliensis
+Brasil;-19.8157;-43.9542;peripheral blood, bone marrow aspirates, epithelial ears biopsy;;PCR-RFLP;L. braziliensis
+Brasil;-25.2131;-50.9778;biopsy;;PCR-RAPD;L. braziliensis
+Brasil;-23.419;-51.424;Insect gut;;Isoenzyme electrophoresis;L. braziliensis
+Brasil;-19.921;-43.938;Necropsy and dog blood;;LnPCR;L. braziliensis
+Brasil;-18.512;-44.555;Slides;;PCR-RFLP;L. braziliensis
+Brasil;-25.428;-49.273;Biopsy;;PCR primers especificos;L. braziliensis
+Brasil;-23.456;-47.488;Biopsy;;PCR primers especificos;L. braziliensis
+Brasil;-25.4278;-49.2731;Peripheral lymph node contents and blood;;RAPD OPA2 OPA3 OPA9 OPA10;L. braziliensis
+Brasil;-14.7936;-39.0395;Blood;;PCR primer específico para Donovani complex;L. braziliensis
+Brasil;-2.5297;-44.3028;Insects;;PCR sequencing;L. braziliensis
+Brasil;-9.6658;-35.7353;Blood;;PCR primer especifico para L. braziliensis complex;L. braziliensis
+Brasil;-22.9064;-43.1822;Biopsy from suspected cutaneous;;RIA;L. braziliensis
+Brasil;-21.5875;-48.0679;Punch biopsy and aspirate from the lesion;;isoenzyme characterization;L. braziliensis
+Brasil;-6.1842;-45.615;Raspado;;MLEE;L. braziliensis
+Brasil;-21.709;-43.884;Insecto;;PCR-RFLP- ITS1;L. braziliensis
+Brasil;-22.756;-43.461;Blood, biopsia;;RIA, Inmnoflouresence tchnique;L. braziliensis
+Brasil;-22.2458;-43.7;Cepa;;Isoenzima;L. braziliensis
+Brasil;-21.1783;-47.8067;biopsia;;PCR-RFLP ;L. braziliensis
+Brasil;-18.8652;-48.2949;Blood;;PCR secuenciación;L. braziliensis
+Brasil;-4.8589;-43.3561;blood;;ITS1-PCR, PCR-RFLP;L. braziliensis
+Brasil;-19.921;-43.938;biopsia;;HSP70-PCR RFLP, kDNA-PCR, QIAGEN;L. braziliensis
+Brasil;-14.8851;-44.0774;insect;;ITS1 PCR-RFLP;L. braziliensis
+Brasil;-25.445;-54.401;blood;;PCR-RFLP, cELISA;L. braziliensis
+Brasil;-25.516;-54.585;blood;;PCR-RFLP, cELISA;L. braziliensis
+Brasil;-11;-68.7333;Skin biopsy;;PCR/RFLP and FRET-real-time PCR;L. braziliensis
+Brasil;-21.12;-42.9428;Biopsy;;Profile of reactions with antibodies specific monoclonal;L. braziliensis
+Brasil;-22.4897;-48.04;Blood;;ELISA, PCR sequencing;L. braziliensis
+Brasil;-22.6617;-50.4122;Biopsy;;PCR-RFLP;L. braziliensis
+Brasil;-7.5906;-35.4996;Insect;;ITS1 - PCR conventional;L. braziliensis
+Brasil;-22.9035;-43.2096;biopsy procedure after euthanasia;;PCR  and probes;L. braziliensis
+Brasil;-8.3736;-35.4552;Biopsy;;PCR-RFLP;L. braziliensis
+Brasil;-14.9037;-44.2739;Blood;;PCR-RFLP;L. braziliensis
+Brasil;-0.84;-52.519;Insect;;biochemically on enzymic profiles;L. braziliensis
+Brasil;-5.96;-54;Blood, biopsy;;biochemically on enzymic profiles;L. braziliensis
+Brasil;-6.2758;-50.5817;Blood;;Indirect immunofluorescence test;L. braziliensis
+Brasil;-22.8753;-43.243;Biopsy;;PCR-RFLP with isoenzyme;L. braziliensis
+Brasil;-10.2585;-55.0208;Autopsy;;PCR-RFLP;L. braziliensis
+Brasil;-19.9187;-43.9386;Blood and biopsy;;LnPCR with SSUrRNA gene fragment;L. braziliensis
+Brasil;-3.7169;-38.5428;Insect;;qPCR targeting species-specific gene sequences of L. infantum and Leishmania braziliensis. ;L. braziliensis
+Brasil;-21.1874;-50.444;Biopsy;;PCR primer especifico para L. chagasi y L. braziliensis complex;L. braziliensis
+Brasil;-14.9215;-44.1914;Biopsy of skin lesions;;PCR-RFLP hsp70;L. braziliensis
+Brasil;-20.1501;-44.2168;spleen, liver, tail skin, ear skin and bone marrow;;PCR RFLPhsp70;L. braziliensis
+Brasil;-12.5817;-69.203;Insect;;nested Real Time PCR;L. braziliensis
+Brasil;-2.1258;-45.885;Insect;;PCR-RFLP;L. braziliensis
+Brasil;-13.7319;-39.1489;Blood;;IFA;L. braziliensis
+Brasil;-22.9083;-43.1964;byopsis;;RFLP-PCR (Msp I, Rsa I, Hinf I and Mbo I);L. braziliensis
+Brasil;-9.0151;-42.6973;Biopsys of spleen;;PCR/DNA sequencing;L. braziliensis
+Brasil;-3.1072;-60.0261;Biopsys and Lesions;;PCR (HSP-70 and mini-exon loci);L. braziliensis
+Brasil;-25.4278;-49.276;Blood;;IFA- ELISA;L. braziliensis
+Brasil;-19.9136;-43.9613;Blood;;PCR-RFLP;L. braziliensis
+Brasil;-4.2167;-38.9167;Blood;;IIF- ELISA;L. braziliensis
+Brasil;-15.7801;-47.9292;biopsy;;ITS1 PCR-RFLP;L. braziliensis
+Brasil;-20.4428;-54.6464;biopsy;;PCR-RFLP;L. braziliensis
+Brasil;-20.0975;-43.4883;Insect;;ITS1 PCR.RFLP;L. braziliensis
+Brasil;-25.2082;-52.0272;Blood;;ELISA and PCR;L. braziliensis
+Brasil;-7.5846;-35.4907;Blood;;PCR and IFAT;L. braziliensis
+Brasil;-19.9215;-43.9232;Blood;;MLEE;L. braziliensis
+Brasil;-25.516;-48.525;Blood;;PCR and PCR-RAPD;L. braziliensis
+Brasil;-23.559;-52.218;Blood and scraped;;Direct agglutination test (DAT), PCR;L. braziliensis
+Brasil;-23.434;-52.212;Blood and scraped;;Direct agglutination test (DAT), PCR;L. braziliensis
+Brasil;-23.429;-52.293;Blood and scraped;;Direct agglutination test (DAT), PCR;L. braziliensis
+Brasil;-23.619;-52.221;Blood and scraped;;Direct agglutination test (DAT), PCR;L. braziliensis
+Brasil;-20.211;-50.927;Blood and scraped;;Direct agglutination test (DAT), PCR;L. braziliensis
+Brasil;-10.2516;-63.2872;Biopsy;;A panel of 24 monoclonal antibodies;L. braziliensis
+Brasil;-22.9028;-43.2075;Biopsy;; isoenzyme electrophoresis;L. braziliensis
+Brasil;-25.4969;-51.7766;blood and biopsy;;Giemsa;L. braziliensis
+Brasil;-27.1484;-51.0563;Biopsy;;MAbs and  hybridization assay of the mini-exon gene with group specific probes;L. braziliensis
+Brasil;-4.4799;-63.5187;Biopsy;;Monoclonal antibodies, enzyme electrophoresis ;L. braziliensis
+Brasil;-4.4799;-63.5187;Insect;;Monoclonal antibodies, enzyme electrophoresis ;L. braziliensis
+Brasil;-15.78;-47.93;Biopsy;;Monoclonal antibodies;L. braziliensis
+Brasil;-22.9369;-43.1845;Biopsy;;Enzyme electrophoresis (ASAT, ALAT, PGM, GPI & G6PD);L. braziliensis
+Brasil;-8.06;-34.89;Biopsy;;MLEE;L. braziliensis
+Brasil;-19.5546;-41.338;Biopsy;;ELISA, IFA;L. braziliensis
+Brasil;-19.9208;-43.9378;Biopsy;;PCR specific primers ;L. braziliensis
+Brasil;-22.9035;-43.2096;Biopsy;;PCR-RFLP;L. braziliensis
+Brasil;-15.78;-47.93;Blood and skin;;isoenzyme electrophoresis;L. braziliensis
+Brasil;-3.2333;-47;Insect;;qPCR and sequencing;L. braziliensis
+Brasil;-22.608;-43.708;Biopsy;;specific monoclonal antibodies;L. braziliensis
+Brasil;-1.766;-55.866;Biopsy;;ELISA;L. braziliensis
+Brasil;-15.78;-47.93;blood, biopsy;;Isoenzyme electrophoresis,  indirect immunofluorescence antibody test;L. braziliensis
+Brasil;-20.4428;-54.6464;Insect;;PCR-RFL;L. braziliensis
+Brasil;-20.3194;-40.3378;Biopsy;;PCR-RFL;L. braziliensis
+Brasil;-3.1194;-60.0241;Biopsy;;PCR specific primers ;L. braziliensis
+Brasil;-3.2904;-42.2167;biopsy;;PCR-RFL;L. braziliensis
+Brasil;-15.78;-47.93;Biopsy;;IgG ELISA;L. braziliensis
+Brasil;-12.2376;-41.6015;Biopsy;; isoenzyme;L. braziliensis
+Brasil;-22.9196;-43.367;Biopsy;;PCR-kDNA;L. braziliensis
+Brasil;-7.6084;-35.5155;bone marrow and blood;;;L. braziliensis
+Brasil;-7.8314;-35.1037;insect;;PCR and IFAT;L. braziliensis
+Brasil;-22.2122;-49.6816;Blood;;qPCR;L. braziliensis
+Brasil;-20.5043;-54.6141;bone marrow and blood;;IIF;L. braziliensis
+Brasil;-13.0025;-38.509;Blood;;ELISA;L. braziliensis
+Brasil;-19.5241;-43.7381;insect;;LnPCR;L. braziliensis
+Brasil;-23.9145;-53.156;blood and bone marrow;;IIF and PCR;L. braziliensis
+Brasil;-10.9414;-69.5669;Insect;;PCR-RFLP;L. braziliensis
+Brasil;-3.0844;-56.0878;Insect;;PCR sequencing;L. braziliensis
+Brasil;-9.9781;-67.8117;Biopsy;;PCR-RFLP;L. braziliensis
+Brasil;-8.8342;-48.5103;Insect;;PCR and probes;L. braziliensis
+Brasil;-18.9189;-48.2769;Blood;;PCR con primers especificos para el KDNA;L. braziliensis
+Brasil;-13.2333;-39.75;Biopsy;;ELISA, monoclonal antibodies;L. braziliensis
+Brasil;-22.906;-43.182;biopsy;;PCR and RPA-LF.;L. braziliensis
+Brasil;-12.2591;-41.6024;insect;;DPP and ELISA;L. braziliensis
+Brasil;-8.7839;-63.8565;biopsy;;kDNA PCR;L. braziliensis
+Brasil;-22.8757;-43.243;biopsy;;PCR-RFP;L. braziliensis
+Brasil;-22.9083;-43.1964;Blood;;PCR LSSP-PCR;L. braziliensis
+Brasil;-22.907;-43.173;Skin biopsy;;PCR Specific primers;L. braziliensis
+Brasil;-20.365;-40.427;Skin biopsy;;Multi-locus enzyme electrophoresis;L. braziliensis
+Brasil;-20.4428;-54.6464;Blood, biopsy;;Isoenzyme electrophoresis;L. braziliensis
+Brasil;-22.95;-43.35;Insect;;PCR specific primers;L. braziliensis
+Brasil;-22.9083;-43.1964;Serum;;PCR specific primers;L. braziliensis
+Brasil;-2.443;-54.708;Skin biopsy;;ELISA;L. braziliensis
+Brasil;-19.9194;-43.9263;Blood;;PCR specific primers/IHC;L. braziliensis
+Brasil;-4.3289;-38.885;Blood;;PCR, ELISA and IFAT;L. braziliensis
+Brasil;-27.5967;-48.5492;Biopsy;;Isoenzyme electrophoresis by hybridization with kinetoplast DNA-specific probes;L. braziliensis
+Brasil;-21.1767;-47.8208;Biopsy;;PCR–RFLP;L. braziliensis
+Brasil;-9.974;-67.8076;Insect;;kDNA PCR;L. braziliensis
+Brasil;-3.7319;-38.5267;Biopsy;;PCR, DNA probes;L. braziliensis
+Brasil;-2.1522;-56.0922;Biopsy;;Monoclonal antibodies;L. braziliensis
+Brasil;-22.9056;-47.0608;Biopsy;; PCR (SSUrDNA and G6PD);L. braziliensis
+Brasil;-9.9678;-67.8791;insect;;ELISA;L. braziliensis
+Brasil;-20.5075;-54.6206;blood, biopsy and smear;;kDNA PCR and PCR-RFLP;L. braziliensis
+Peru;-11.331800;-69.6057000;Insect;;ELISA and IFAT;L. braziliensis
+Peru;-11.964800;-69.1628000;Insect;;PCR and PCR-RFLP.;L. braziliensis
+Peru;-9.930600;-76.2422000;Giemsa-stained smears;;PCR-RFLP;L. braziliensis
+Peru;-12.043200;-77.0282000;Biopsy, scraping;;PCR-N Hsp70;L. braziliensis
+Peru;-6.034200;-76.9717000;Biopsy, scraping, aspirate;;q-PCR;L. braziliensis
+Peru;-4.019200;-71.1028000;Biopsy, scraping, aspirate;;q-PCR;L. braziliensis
+Peru;-11.435100;-69.6793000;Scraping, aspirate;;PCR Mpi, PCR-RFLP Hsp70, PCR Cpb;L. braziliensis
+Peru;-12.043200;-77.0282000;Biopsy, scraping;;q-PCR;L. braziliensis
+Peru;-12.022500;-77.0556000;Smear, scraping;;;L. braziliensis
+Peru;-11.385800;-69.5153000;Insect;;PCR-RFLP, PCR Mpi, PCR Cpb, PCR Hsp 70;L. braziliensis
+Peru;-12.022500;-77.0556000;Biopsy;;q-PCR;L. braziliensis
+Peru;-12.022500;-77.0556000;Biopsy, aspirate and scraping;;PCR;L. braziliensis
+Peru;-7.916700;-78.7167000;Insect;;PCR-RFLP;L. braziliensis
+Peru;-12.022500;-77.0556000;Biopsy ;;PCR, PCR-RFLP;L. braziliensis
+Peru;-12.022500;-77.0556000;Scraping, aspirate, urine and filter paper lesion impressions;;PCR-RFLP and PCR;L. braziliensis
+Peru;-12.022500;-77.0556000;Biopsy;;PCR;L. braziliensis
+Peru;-11.823000;-77.1076000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-9.527800;-77.5278000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-13.633900;-72.8814000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-13.158800;-74.2232000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-7.163800;-78.5003000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-13.522600;-71.9673000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-11.188800;-76.0119000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-8.415500;-78.7520000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-6.771400;-79.8409000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-12.022500;-77.0556000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-3.749100;-73.2538000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-12.593300;-69.1891000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-10.667500;-76.2567000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-5.194500;-80.6328000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-10.020400;-77.6713000;Biopsy;;PCR-RFLP and sequencing ;L. braziliensis
+Peru;-12.022500;-77.0556000;Scrapings, aspirates, and filter paper impressions;;PCR-RFLP;L. braziliensis
+Peru;-9.930600;-76.2422000;Biopsy;;Isoenzyme electrophoresis, kDNA analysis by restriction enzymes, and multiplex PCR assay;L. braziliensis
+Peru;-13.522600;-71.9673000;Biopsy;;PCR and Sequencing;L. braziliensis
+Peru;-12.022500;-77.0556000;Biopsy;;PCR and Sequencing;L. braziliensis
+Peru;-9.930600;-76.2422000;Aspirates and biopsy;;PCR and Sequencing;L. braziliensis
+Peru;-12.671900;-69.3555000;Biopsy;;Isoenzyme electrophoresis ;L. braziliensis
+Brasil;-15.7797;-47.9297;Biopsy, scraping;;MLEE, random amplification of polymorphic DNA, molecular karyotyping;L. braziliensis
+Bolivia;-14.5167;-67.5;Biopsy;;Isoenzyme electrophoresis, kinetoplast DNA hybridization, monoclonal antibody ;L. braziliensis
+Peru;-1.365600;-48.3722000;Biopsy, scraping;;MLEE, random amplification of polymorphic DNA, molecular karyotyping;L. braziliensis
+Peru;-13.522600;-71.9673000;Biopsy;;Isoenzyme electrophoresis ;L. braziliensis
+Peru;-9.930600;-76.2422000;Biopsy;;Isoenzyme electrophoresis, kinetoplast DNA hybridization, monoclonal antibody ;L. braziliensis
+Peru;-9.136700;-77.7603000;Biopsy;;Isoenzyme electrophoresis, kinetoplast DNA hybridization, monoclonal antibody ;L. braziliensis
+Peru;-12.629500;-70.6754000;Biopsy;;Isoenzyme electrophoresis, kinetoplast DNA hybridization, monoclonal antibody ;L. braziliensis
+Peru;-10.246900;-77.4108000;Aspiration, biopsy and insect;;Isoenzyme electrophoresis, kinetoplast DNA hybridization, monoclonal antibody ;L. braziliensis
+Peru;-7.916700;-78.7167000;Insect and Scraping;;PCR MPI and Cyt b sequencing;L. braziliensis
+Brasil;-23.012;-43.542;;;;L. infantum/chagasi
+Brasil;-15.646;-56.133;;;;L. infantum/chagasi
+Brasil;-20.47;-54.62;;;;L. infantum/chagasi
+Brasil;-19.9208298;-43.9377785;;;;L. infantum/chagasi
+Brasil;-8.053889;-34.880833;;;;L. infantum/chagasi
+Brasil;-21.133333;-56.483333;;;;L. infantum/chagasi
+Brasil;-1.44;-48.463;;;;L. infantum/chagasi
+Brasil;-19.8993;-43.957;;;;L. infantum/chagasi
+Brasil;-15.8037;-43.3174;;;;L. infantum/chagasi
+Brasil;-20.468756;-54.625244;;;;L. infantum/chagasi
+Brasil;-5.90606;-35.2604;;;;L. infantum/chagasi
+Brasil;-5.90606;-35.2604;;;;L. infantum/chagasi
+Brasil;-23.5472222;-46.63583333;;;;L. infantum/chagasi
+Brasil;-15.37175;-56.058779;;;;L. infantum/chagasi
+Brasil;-1.36498;-48.46993;;;;L. infantum/chagasi
+Brasil;-22.87533;-43.24299;;;;L. infantum/chagasi
+Brasil;-21.187385;-50.44403;;;;L. infantum/chagasi
+Brasil;-20.89864;-51.371711;;;;L. infantum/chagasi
+Brasil;-21.187385;-50.44403;;;;L. infantum/chagasi
+Brasil;-22.908333;-43.196389;;;;L. infantum/chagasi
+Brasil;-22.908333;-43.196389;;;;L. infantum/chagasi
+Brasil;-19.913582;-43.961294;;;;L. infantum/chagasi
+Brasil;-13.859;-40.085;;;;L. infantum/chagasi
+Brasil;-3.562;-41.092;;;;L. infantum/chagasi
+Brasil;-8.0538902;-34.8811111;;;;L. infantum/chagasi
+Brasil;-7.23056;-35.88111;;;;L. infantum/chagasi
+Brasil;-10.761115;-48.234075;;;;L. infantum/chagasi
+Brasil;-22.908333;-43.196389;;;;L. infantum/chagasi
+Brasil;-5.74;-36.55;;;;L. infantum/chagasi
+Brasil;-12.52;-41.69;;;;L. infantum/chagasi
+Brasil;-20.483197;-55.812174;;;;L. infantum/chagasi
+Brasil;-5.045403;-42.77664;;;;L. infantum/chagasi
+Brasil;-5.045403;-42.77664;;;;L. infantum/chagasi
+Brasil;-7.119679;-34.854131;;;;L. infantum/chagasi
+Brasil;-12.644028;-38.092837;;;;L. infantum/chagasi
+Brasil;-22.9035;-43.2096;;;;L. infantum/chagasi
+Brasil;-22.9035;-43.2096;;;;L. infantum/chagasi
+Brasil;-5.045403;-42.77664;;;;L. infantum/chagasi
+Brasil;-22.87566;-43.24296;;;;L. infantum/chagasi
+Brasil;-2.44733;-44.10913;;;;L. infantum/chagasi
+Brasil;-15.791767;-47.88175;;;;L. infantum/chagasi
+Brasil;-9.49744;-42.58233;;;;L. infantum/chagasi
+Brasil;-15.5961103;-56.0966682;;;;L. infantum/chagasi
+Brasil;-19.9208298;-43.9377785;;;;L. infantum/chagasi
+Brasil;-22.9035;-43.2096;;;;L. infantum/chagasi
+Brasil;-20.4427795;-54.646389;;;;L. infantum/chagasi
+Brasil;-20.3194408;-40.33778;;;;L. infantum/chagasi
+Brasil;-2.290376;-43.216681;;;;L. infantum/chagasi
+Brasil;-16.718472;-43.877559;;;;L. infantum/chagasi
+Brasil;-20.504328;-54.614148;;;;L. infantum/chagasi
+Brasil;-19.524073;-43.738069;;;;L. infantum/chagasi
+Brasil;-19.890431;-43.844387;;;;L. infantum/chagasi
+Colombia;9.145278;-75.508611;;;;L. infantum/chagasi
+Colombia;4.3;-74.7;;;;L. infantum/chagasi
+Colombia;4.274688;-74.774048;;;;L. infantum/chagasi
+Colombia;1.79861;-78.81556;;;;L. infantum/chagasi
+Colombia;9.147;-75.509;;;;L. infantum/chagasi
+Colombia;3.797287;-75.197427;;;;L. infantum/chagasi
+Colombia;2.95163;-75.28211;;;;L. infantum/chagasi
+Colombia;1.787434;-78.791265;;;;L. infantum/chagasi
+Colombia;2.92504;-75.2897;;;;L. infantum/chagasi
+Colombia;3.8191667;-75.198333;;;;L. infantum/chagasi
+Colombia;9.15;-75.51666667;;;;L. infantum/chagasi
+Colombia;9.15;-75.51666667;;;;L. infantum/chagasi
+Mexico;17.832764;-99.520143;;;;L. infantum/chagasi
+Mexico;18.237299;-90.319506;;;;L. infantum/chagasi
+Mexico;18.283221;-92.346803;;;;L. infantum/chagasi
+Mexico;19.213104;-90.288238;;;;L. infantum/chagasi
+Mexico;19.6666671;-88.5000001;;;;L. infantum/chagasi
+Mexico;19.173532;-96.136485;;;;L. infantum/chagasi
+Mexico;18.237299;-90.319506;;;;L. infantum/chagasi
+Mexico;21.940473;-104.803628;;;;L. infantum/chagasi
+Venezuela;9.86;-66.381;;;;L. infantum/chagasi
+Venezuela;8.3025;-64.93361111;;;;L. infantum/chagasi
+Venezuela;6.24984;-67.37839;;;;L. infantum/chagasi
+Venezuela;9.979;-69.939;;;;L. infantum/chagasi
+Brasil;-2.241102;-49.498739;;;;L. infantum/chagasi
+Brasil;-5.0949;-42.8042;;;;L. infantum/chagasi
+Brasil;-11.182;-40.512;;;;L. infantum/chagasi
+Brasil;-22.908333;-43.196389;;;;L. infantum/chagasi
+Brasil;-20.4427795;-54.646389;;;;L. infantum/chagasi
+Brasil;-3.605833333;-38.96888889;;;;L. infantum/chagasi
+Brasil;-22.9055595;-47.0608292;;;;L. infantum/chagasi
+Brasil;-15.965;-54.967778;;;;L. infantum/chagasi
+Brasil;-19.71;-40.48;;;;L. infantum/chagasi
+Venezuela;10.07;-69.86;;;;L. colombiensis
+Venezuela;11.017778;-63.922222;;;;L. colombiensis
+Argentina;-24.782127;-65.4232;dermal scapings;Human;PCR DNA sequencing;L. amazonensis
+Argentina;-24.782127;-65.4232;dermal scapings;Human;PS-PCR;L. amazonensis
+Bolivia;-14.7;-67.25;Lesion aspirate;Human;MLEE;L. amazonensis
+Bolivia;-14.7;-67.25;Insects;Insect;MLEE;L. amazonensis
+Brasil;-19.8157;-43.9542;Skin biopsies;human;PCR and probes;L. amazonensis
+Brasil;-25.428;-49.273;Biopsy;Human;PCR primers especificos;L. amazonensis
+Brasil;-2.5297201;-44.30278;Insects;Phlebotomus;PCR sequencing;L. amazonensis
+Brasil;-19.008889;-57.652778;Insects;Phlebotomus;PCR-RFLP ITS-1;L. amazonensis
+Brasil;-21.178333;-47.806667;biopsia;Human;PCR-RFLP ;L. amazonensis
+Brasil;-4.85889;-43.35611;blood  ;Sandflies, dog, human, rodent, opossum, cattle  and  chicken;ITS1-PCR, PCR-RFLP;L. amazonensis
+Brasil;-23.31028;-51.16278;blood;rodents;ELISA, PS-PCR;L. amazonensis
+Brasil;-2.12583;-45.885;Insect ;Dipteros ;PCR-RFLP;L. amazonensis
+Brasil;-23.54722;-46.63583;Necropsy;Brazilian Bat;Nested- PCR;L. amazonensis
+Brasil;-25.42778;-49.276;Blood;Human;IFA- ELISA;L. amazonensis
+Brasil;-20.44278;-54.64639;biopsy;Human;PCR-RFLP;L. amazonensis
+Brasil;-1.766;-55.866;Biopsy;Human;Isoenzyme electrophoresis,  indirect immunofluorescence antibody test;L. amazonensis
+Brasil;-22.9196;-43.36703;Biopsy;Human ;;L. amazonensis
+Brasil;-18.91889;-48.27694;Blood;Bat;PCR con primers especificos para el KDNA;L. amazonensis
+Venezuela;8.18795;-73.25263;Insect, Biopsy;;PCR, enzyme electrophoresis;L. amazonensis
+Brasil;-11.182;-40.512;Skin biopsy;White-eared opossum;Isoenzyme electrophoresis;L. amazonensis
+Brasil;-19.88447;-43.85519;blood ;Human ;PCR, ELISA and IFAT;L. amazonensis
+Brasil;-27.59667;-48.54917;Biopsy;Human;PCR–RFLP;L. amazonensis
+Brasil;-17.22167;-46.875;Biopsy;Dog, Human;ELISA, PCR-RFLP and IFAT;L. amazonensis
+Brasil;-21.20229;-50.45399;blood and biopsy;Bats;kDNA using real-time PCR;L. amazonensis
+Brasil;-18.86516;-48.29488;Blood;Bats;PCR secuenciación;L. amazonensis
+Brasil;-19.92149;-43.92318;Blood;Human;MLEE;L. amazonensis
+Brasil;-19.00817;-57.65155;Insect and Blood;Sand fly,hamster;PCR-RFLP;L. amazonensis
+Brasil;-10.24958;-48.32492;Insect;Phlebotomus;ITS1-PCR;L. amazonensis
+Brasil;-8.783901;-63.85651;biopsy;Human ;PCR-RFP;L. amazonensis
+Brasil;-19.91945;-43.9263;Blood;Dog;PCR, ELISA and IFAT;L. amazonensis
+Brasil;-15.79957;-47.86498;biopsy;Human ;IFF and PCR;L. amazonensis
+Brasil;-21.20229;-50.45399;blood;Dog;PCR and IFAT;L. amazonensis
+Argentina;-27.426925;-55.946708;;;PCR SSUrRNA ITS-1;L. infantum/chagasi
+Argentina;-24.782127;-65.4232;;;PCR DNA sequencing;L. infantum/chagasi
+Argentina;-27.426925;-55.946708;;;PCR sequencing, RFLP;L. infantum/chagasi
+Argentina;-27.426925;-55.946708;;;PCR sequencing;L. infantum/chagasi
+Argentina;-27.426925;-55.946708;;;PCR sequencing;L. infantum/chagasi
+Argentina;-27.426925;-55.946708;;;PCR sequencing, RFLP;L. infantum/chagasi
+Argentina;-27.426925;-55.946708;;;PCR sequencing;L. infantum/chagasi
+Argentina;-27.426925;-55.946708;;;PCR sequencing;L. infantum/chagasi
+Argentina;-32.889377;-68.847529;;;PCR-ELISA;L. infantum/chagasi
+Argentina;-22.1069861;-63.52915;;;PCR sequencing;L. infantum/chagasi
+Argentina;-27.426925;-55.946708;;;PCR sequencing;L. infantum/chagasi
+Costa Rica;10.640325;-85.423471;;;MLEE;L. infantum/chagasi
+Honduras;13.826579;-87.465967;;;PCR-RFLP;L. infantum/chagasi
+Honduras;13.796224;-87.469132;;;PCR-RFLP;L. infantum/chagasi
+Honduras;13.888078;-87.703611;;;PCR-RFLP;L. infantum/chagasi
+Honduras;13.660676;-87.533516;;;PCR-RFLP;L. infantum/chagasi
+Honduras;14.967878;-88.000553;;;PCR-RFLP;L. infantum/chagasi
+Honduras;14.967878;-88.000553;;;MLEE;L. infantum/chagasi
+Mexico;20.709879;-89.094338;;;Fe-SODe-ELISA, western blot;L. infantum/chagasi
+Mexico;18.931;-90.262;;;Isoenzyme electroforesis;L. infantum/chagasi
+Mexico;20.833333;-89;;;ELISA;L. infantum/chagasi
+Nicaragua;12.965779;-86.819484;;;"Nested PCR and  PCR-RFLP
+";L. infantum/chagasi
+Peru;-11.940917;-76.5065330;;;PCR-RFLP cpb and hsp70;L. infantum/chagasi
+Uruguay;-31.417163;-58.002615;;;ITS1 PCR and sequencing ;L. infantum/chagasi
+Venezuela;10.997072;-63.91133;;;PCR;L. infantum/chagasi
+Venezuela;9.86;-66.381;;;PCR RFLP;L. infantum/chagasi
+Venezuela;11.1730556;-69.8608333;;;"PCR; Serologic tests";L. infantum/chagasi
+Venezuela;10.0666667;-69.8666667;;;"PCR; Serologic tests";L. infantum/chagasi
+Venezuela;10.9738509;-64.0597676;;;kDNA Restriction analysis, RFLP;L. infantum/chagasi
+Bolivia;-16.493292;-68.117228;;;MLEE;L. infantum/chagasi
+Bolivia;-16.493292;-68.117228;;;PCR and Probes;L. infantum/chagasi
+Bolivia;-16.493292;-68.117228;;;MLEE;L. infantum/chagasi
+Nicaragua;12.1328201;-86.2503967;Scraping;;MLEE;L. braziliensis
+Panama;8.9935999;-79.5197296;Aspirates;;PCR sequencing;L. braziliensis
+Suriname;3.9193051;-56.0277824;Biopsy;;PCR sequencing, RFLP;L. braziliensis
+Suriname;5.8663802;-55.1668205;Biopsy;;PCR sequencing;L. braziliensis
+Suriname;3.6688889;-54.08555556;Insect;;PCR sequencing;L. braziliensis
+Suriname;4.2547222;-55.4375;Insect;;PCR-ELISA;L. braziliensis
+Suriname;5.0738889;-54.49638889;Insect;;PCR sequencing;L. braziliensis
+Suriname;5.0236111;-54.9925;Insect;;PCR sequencing;L. braziliensis
+Suriname;5.1805556;-55.07972222;Insect;;kDNA Restriction analysis, RFLP;L. braziliensis
+Suriname;5.0155556;-54.82777778;Insect;;DPP and ELISA;L. braziliensis
+Suriname;5.0938889;-55.16694444;Insect;;LSTâˆ’ and IFAT;L. braziliensis
+Brasil;-9.6209220;-36.8786290;;;ELISA;L. infantum/chagasi
+Brasil;-7.0885760;-36.8366090;;;ELISA;L. infantum/chagasi
+Brasil;-12.3515310;-41.6664180;;;ELISA;L. infantum/chagasi
+Brasil;-8.4071500;-37.6712250;;;ELISA;L. infantum/chagasi
+Brasil;-20.4427795;-54.6463890;;;PCR-RFLP;L. infantum/chagasi
+Brasil;-20.4427795;-54.6463890;;;PCR-RFLP;L. infantum/chagasi
+Brasil;-19.8157000;-43.9542000;;;PCR-RFLP;L. infantum/chagasi
+Brasil;-7.5906000;-35.4916000;;;PCR and probes;L. infantum/chagasi
+Brasil;-2.5390000;-44.2830000;;;PCR, isoenzyme electrophoresis;L. infantum/chagasi
+Brasil;-19.9210000;-43.9380000;;;LnPCR;L. infantum/chagasi
+Brasil;-20.4700000;-54.6200000;;;Zymodeme analysis;L. infantum/chagasi
+Brasil;-17.8869444;-44.5777778;;;PCR-RFLP ITS-1;L. infantum/chagasi
+Brasil;-2.5297201;-44.3027800;;;PCR sequencing;L. infantum/chagasi
+Brasil;-17.8869444;-44.5777778;;;PCR-RFLP HaeII;L. infantum/chagasi
+Brasil;-19.9166670;-43.9333330;;;PCR-RFLP ;L. infantum/chagasi
+Brasil;-23.0112780;-43.5417240;;;PCR and probes;L. infantum/chagasi
+Brasil;-19.9109650;-43.9510470;;;ELISA, antigeno K39;L. infantum/chagasi
+Brasil;-18.8651620;-48.2948840;;;PCR secuenciaciÃ³n;L. infantum/chagasi
+Brasil;-28.5966240;-51.7914580;;;ITS-PCR;L. infantum/chagasi
+Brasil;-22.9055595;-47.0608292;;;ELISA, TR DPP;L. infantum/chagasi
+Brasil;-4.8588900;-43.3561100;;;ITS1-PCR, PCR-RFLP;L. infantum/chagasi
+Brasil;-14.8851000;-44.0774000;;;ITS1 PCR-RFLP;L. infantum/chagasi
+Brasil;-25.4135000;-54.4225000;;;PCR-RFLP, cELISA;L. infantum/chagasi
+Brasil;-25.5477800;-54.5880600;;;PCR-RFLP, cELISA;L. infantum/chagasi
+Brasil;-22.5454000;-44.1698000;;;PCR primers especificos;L. infantum/chagasi
+Brasil;-23.3102800;-51.1627800;;;ELISA, PS-PCR;L. infantum/chagasi
+Brasil;-5.0891700;-42.8019409;;;ELISA, TR DPPï›š ;L. infantum/chagasi
+Brasil;-20.4427795;-54.6463890;;;ELISA, PCR sequencing;L. infantum/chagasi
+Brasil;-15.6086111;-56.0636111;;;PCR-RFLP;L. infantum/chagasi
+Brasil;-21.2655556;-56.7027778;;;Indirect immunofluorescence reaction using monoclonal antibodies;L. infantum/chagasi
+Brasil;-22.5454000;-44.1698000;;;ELISA;L. infantum/chagasi
+Brasil;-20.4427795;-54.6463890;;;PCR-RFLP;L. infantum/chagasi
+Brasil;-21.4294000;-45.9471000;;;ELISA, IFAT, qPCR, PCR sequencing;L. infantum/chagasi
+Brasil;-7.5906000;-35.4996000;;;ITS1 - PCR conventional;L. infantum/chagasi
+Brasil;-5.9060600;-35.2604000;;;ELISA, qPCR;L. infantum/chagasi
+Brasil;-5.9060600;-35.2604000;;;ELISA, qPCR;L. infantum/chagasi
+Brasil;-22.9035000;-43.2096000;;;PCR  and probes;L. infantum/chagasi
+Brasil;-14.9036700;-44.2738930;;;PCR-RFLP;L. infantum/chagasi
+Brasil;-3.7169440;-38.5427780;;;qPCR targeting species-specific gene sequences of L. infantum/chagasi and Leishmania braziliensis. ;L. infantum/chagasi
+Brasil;-2.4858850;-43.1284070;;;PCR-RFLP HaeIII;L. infantum/chagasi
+Brasil;-21.9983090;-47.4160270;;;ITS-cPCR;L. infantum/chagasi
+Brasil;-22.3131300;-49.0650970;;;species-specific primers and RFLP-PCR;L. infantum/chagasi
+Brasil;-22.8793030;-48.4740640;;;species-specific primers and RFLP-PCR;L. infantum/chagasi
+Brasil;-20.4687560;-54.6252440;;;specific primers: LEISH-1and LEISH-2;L. infantum/chagasi
+Brasil;-20.1501160;-44.2168240;;;PCR RFLPhsp70;L. infantum/chagasi
+Brasil;-19.9135820;-43.9612940;;;kDNA PCR-ELISA;L. infantum/chagasi
+Brasil;-22.9049310;-43.2439460;;;"Taqman qPCR, Multilocus Enzyme
+Electrophoresis";L. infantum/chagasi
+Brasil;-20.4315270;-51.3550270;;;conjunctival swab PCR;L. infantum/chagasi
+Brasil;-21.2034000;-50.4632500;;;nested-PCR;L. infantum/chagasi
+Brasil;-8.0538890;-34.8808330;;;ELISA;L. infantum/chagasi
+Brasil;-9.3927780;-40.5077780;;;ELISA;L. infantum/chagasi
+Brasil;-19.8916670;-43.9477780;;;;L. infantum/chagasi
+Brasil;-9.0150600;-42.6973000;;;PCR/DNA sequencing;L. infantum/chagasi
+Brasil;-10.1689000;-48.3317000;;;PCR (specific primers RV1/RV2);L. infantum/chagasi
+Brasil;-8.4201890;-38.4762480;;;IFA- ELISA;L. infantum/chagasi
+Brasil;-23.5472222;-46.6358333;;;Nested- PCR;L. infantum/chagasi
+Brasil;-19.9135820;-43.9612940;;;PCR - ELISA;L. infantum/chagasi
+Brasil;-32.0349998;-52.0986099;;;DPP, ELISA, qPCR, PCR sequencing;L. infantum/chagasi
+Brasil;-20.4427795;-54.6463890;;;PCR-RFLP;L. infantum/chagasi
+Brasil;-8.0538902;-34.8811111;;;ITS1-RFLP PCR;L. infantum/chagasi
+Brasil;-12.9711103;-38.5108299;;;PCR (specific primers RV1/RV2), ELISA;L. infantum/chagasi
+Brasil;-19.9973740;-44.2343770;;;IFAT, ELISA, PCR;L. infantum/chagasi
+Brasil;-22.8756640;-43.2429770;;;PCR-RFLP, ELISA.;L. infantum/chagasi
+Brasil;-15.6024920;-56.1036080;;;PCR-RFLP;L. infantum/chagasi
+Brasil;-24.6700000;-51.6200000;;;PCR and PCR-RAPD;L. infantum/chagasi
+Brasil;-22.8756640;-43.2429560;;;ELISA;L. infantum/chagasi
+Brasil;-19.6531180;-43.8862440;;;ELISA and RIFI;L. infantum/chagasi
+Brasil;-19.9181560;-43.9379680;;;PCR-RFLP;L. infantum/chagasi
+Brasil;-22.3147202;-49.0605583;;;ELISA;L. infantum/chagasi
+Brasil;-15.7797200;-47.9297200;;;ELISA;L. infantum/chagasi
+Brasil;-10.1674500;-48.3276596;;;ELISA;L. infantum/chagasi
+Brasil;-3.7172202;-38.5430604;;;ELISA;L. infantum/chagasi
+Brasil;-22.5452778;-44.1697222;;;DPP assay and an ELISA;L. infantum/chagasi
+Brasil;-22.9035000;-43.2096000;;;DPP assay and an ELISA;L. infantum/chagasi
+Brasil;-19.0081688;-57.6515503;;;PCR-RFLP;L. infantum/chagasi
+Brasil;-20.4700000;-54.6200000;;;PCR;L. infantum/chagasi
+Brasil;-5.1840000;-37.3480000;;;PCR squencing;L. infantum/chagasi
+Brasil;-18.8508330;-41.9488890;;;PCR 18S, sequencing;L. infantum/chagasi
+Brasil;-15.7950000;-47.7577778;;;PCR-RFL;L. infantum/chagasi
+Brasil;-22.8833294;-43.1036110;;;MLEE;L. infantum/chagasi
+Brasil;-22.9064198;-43.1822319;;;MLEE;L. infantum/chagasi
+Brasil;-22.3147202;-49.0605583;;;MLEE;L. infantum/chagasi
+Brasil;-15.7797203;-47.9297218;;;MLEE;L. infantum/chagasi
+Brasil;-15.5961103;-56.0966682;;;MLEE;L. infantum/chagasi
+Brasil;-10.1674500;-48.3276596;;;MLEE;L. infantum/chagasi
+Brasil;-3.7172201;-38.5430603;;;MLEE;L. infantum/chagasi
+Brasil;-23.5475006;-46.6361084;;;PCR specific primers ;L. infantum/chagasi
+Brasil;-20.4427795;-54.6463890;;;PCR-RFL;L. infantum/chagasi
+Brasil;-22.8776800;-48.5178900;;;DAR, PCR, IFAT;L. infantum/chagasi
+Brasil;-12.6973730;-38.3339190;;;qPCR;L. infantum/chagasi
+Brasil;-16.3239160;-43.7154620;;;ELISA and PCR;L. infantum/chagasi
+Brasil;-21.1331620;-51.1020080;;;PCR and ELISA;L. infantum/chagasi
+Brasil;-7.6083940;-35.5154530;;;PCR and IFAT;L. infantum/chagasi
+Brasil;-13.8723810;-40.0728770;;;PCR and ELISA;L. infantum/chagasi
+Brasil;-21.2010120;-50.4543280;;;qPCR;L. infantum/chagasi
+Brasil;-7.8313620;-35.1036500;;;qPCR;L. infantum/chagasi
+Brasil;-20.5043280;-54.6141480;;;PCR-RFLP;L. infantum/chagasi
+Brasil;-13.8591970;-40.0843030;;;ELISA;L. infantum/chagasi
+Brasil;-7.5997990;-42.7142780;;;IFAT;L. infantum/chagasi
+Brasil;-20.1357220;-44.8848400;;;RIFI, ELISA and PCR-RFLP;L. infantum/chagasi
+Brasil;-5.0427610;-42.7567530;;;IFAT, PCR and ELISA;L. infantum/chagasi
+Brasil;-19.9181560;-43.9379680;;;DAT-LPC;L. infantum/chagasi
+Brasil;-20.4311150;-51.3453400;;;IFAT;L. infantum/chagasi
+Brasil;-9.3927778;-40.5077778;;;ELISA;L. infantum/chagasi
+Brasil;-1.5166667;-48.6166667;;;IFAT;L. infantum/chagasi
+Brasil;-20.4686111;-54.6222222;;;IFAT;L. infantum/chagasi
+Brasil;-3.0844444;-56.0877778;;;PCR sequencing;L. infantum/chagasi
+Brasil;-18.9188889;-48.2769444;;;PCR con primers especificos para el KDNA;L. infantum/chagasi
+Brasil;-28.5966240;-51.7918020;;;DPP and ELISA;L. infantum/chagasi
+Brasil;-28.5966240;-51.7918020;;;LSTâˆ’ and IFAT;L. infantum/chagasi
+Brasil;-28.5966240;-51.7918020;;;PCR with isoenzymes;L. infantum/chagasi
+Brasil;-28.5966240;-51.7918020;;;ELISA, qPCR;L. infantum/chagasi
+Brasil;-5.0949000;-42.8042000;;;PCR-RFLP, KDNA;L. infantum/chagasi
+Brasil;-25.5477780;-54.5877780;;;ITS1 PCR.RFLP;L. infantum/chagasi
+Brasil;-22.9188890;-42.8188890;;;IFA, ELISA;L. infantum/chagasi
+Brasil;-10.5390000;-37.4170000;;;ELISA;L. infantum/chagasi
+Brasil;-22.9070000;-43.1730000;;;PCR specific primers;L. infantum/chagasi
+Brasil;-19.9194470;-43.9262960;;;PCR, ELISA and IFAT;L. infantum/chagasi
+Brasil;-19.8844730;-43.8551920;;;PCR, ELISA and IFAT;L. infantum/chagasi
+Brasil;-17.2154760;-46.9214750;;;IIF, PCR, and ELISA-rK39;L. infantum/chagasi
+Brasil;-16.7350006;-43.8616714;;;PCR, Pruebas isoenzimaticas;L. infantum/chagasi
+Brasil;-19.9208298;-43.9377785;;;ELISA;L. infantum/chagasi
+Brasil;-21.3563889;-51.8606000;;;Nested PCR;L. infantum/chagasi
+Brasil;-3.7172200;-38.5430600;;;qPCR;L. infantum/chagasi
+Brasil;-13.8587503;-40.0851212;;;qPCR;L. infantum/chagasi
+Brasil;-21.7500000;-43.3500000;;;PCR- Dual-Path Platform immunochromatographic test ;L. infantum/chagasi
+Brasil;-15.9650000;-54.9677780;;;PCR-RFLP;L. infantum/chagasi
+Brasil;-21.8134730;-48.2001920;;;Real-time PCR;L. infantum/chagasi
+Brasil;-21.2022930;-50.4539850;;;kDNA using real-time PCR;L. infantum/chagasi
+Brasil;-19.8690170;-43.9663410;;;ELISA and IFAT;L. infantum/chagasi
+Brasil;-19.8680060;-43.9666620;;;ELISA and IFAT;L. infantum/chagasi
+Brasil;-19.9194470;-43.9262960;;;PCR and IFAT;L. infantum/chagasi
+Ecuador;-0.2002018;-78.506175;;;MLEE;L. panamensis
+Bolivia;-17.78629;-63.18117;biopsy;;PCR and Probes;L. amazonensis
+Bolivia;-14.7;-67.25;Insects, lesion aspirate, biopsy;Insect;MLEE;L. amazonensis
+Bolivia;-14.7;-67.25;biopsy;human;MLEE;L. amazonensis
+Ecuador;0.0386111;-78.87694444;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. amazonensis
+Ecuador;0.1747222;-78.90777778;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. amazonensis
+Ecuador;0.0738889;-79.04916667;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. amazonensis
+Ecuador;0.0925;-79.2425;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. amazonensis
+Ecuador;0.1127778;-79.23194444;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. amazonensis
+Ecuador;0.0386111;-78.87694444;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. braziliensis
+Ecuador;0.1747222;-78.90777778;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. braziliensis
+Ecuador;0.0738889;-79.04916667;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. braziliensis
+Ecuador;0.0925;-79.2425;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. braziliensis
+Ecuador;0.1127778;-79.23194444;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. braziliensis
+Ecuador;0.0386111;-78.87694444;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. naiffi
+Ecuador;0.1747222;-78.90777778;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. naiffi
+Ecuador;0.0738889;-79.04916667;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. naiffi
+Ecuador;0.0925;-79.2425;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. naiffi
+Ecuador;0.1127778;-79.23194444;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. naiffi
+Ecuador;0.0386111;-78.87694444;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. naiffi
+Ecuador;0.1747222;-78.90777778;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. lainsoni
+Ecuador;0.0738889;-79.04916667;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. lainsoni
+Ecuador;0.0925;-79.2425;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. lainsoni
+Ecuador;0.1127778;-79.23194444;Insect;Sandfly;PCR ITS1, PCR mtTOPOII;L. lainsoni
+Ecuador;-0.2201641;-78.5123274;Biopsy;Human;MLEE;L. amazonensis
+Ecuador;-0.2201641;-78.5123274;Biopsy;Human;MLEE;L. panamensis
+Ecuador;-0.2201641;-78.5123274;Biopsy;Human;MLEE;L. braziliensis
+Ecuador;-0.2201641;-78.5123274;Biopsy;Human;MLEE;L. guyanensis
+Ecuador;-0.2201641;-78.5123274;Biopsy;Human;MLEE;L. mexicana
+Ecuador;-0.2201641;-78.5123274;Biopsy;Human;MLEE;L. major
+Peru;3.749120;-73.2538300;Biopsy;Human;Isoenzyme electrophoresis, kDNA analysis by restriction enzymes, and multiplex PCR assay;L. amazonensis
+Peru;-9.929326;-76.2394845;Biopsy;Human;Isoenzyme electrophoresis, kDNA analysis by restriction enzymes, and multiplex PCR assay;L. amazonensis
+Peru;3.749120;-73.2538300;Biopsy;Human;Isoenzyme electrophoresis, kDNA analysis by restriction enzymes, and multiplex PCR assay;L. braziliensis
+Peru;-9.929326;-76.2394845;Biopsy;Human;Isoenzyme electrophoresis, kDNA analysis by restriction enzymes, and multiplex PCR assay;L. braziliensis
+Peru;-13.521235;-71.9711244;Aspirates and biopsy;Human;Isoenzyme electrophoresis ;L. amazonensis
+Peru;-12.062107;-77.0365256;Aspirates and biopsy;Human;Isoenzyme electrophoresis ;L. amazonensis
+Peru;-9.929326;-76.2394845;Scraping;Human;Cyt b sequencing;L. amazonensis
+Suriname;5.8216091;-55.1770432;Biopsy;Human;PCR-RFLP, spliced leader RNA gene and hsp70 gene;L. amazonensis
+Peru;-12.043000;-77.0280000;Aspirate,Biopsy,Scraping;Human ;PCR-RFLP ;L. braziliensis
+Peru;-12.043000;-77.0280000;Aspirate,Biopsy,Scraping;Human ;PCR-RFLP ;L. peruviana
+Peru;-12.043000;-77.0280000;Aspirate,Biopsy,Scraping;Human ;PCR-RFLP ;L. guyanensis
+Peru;-12.043000;-77.0280000;Biopsy ;Human ;PCR specific primers ;L. panamensis
+Peru;-8.567000;-77.6170000;Scraping;Human ;PCR specific primers ;L. peruviana
+Peru;-3.749000;-73.2540000;scraping, aspiration,;Human ;PCR-RFLP;L. braziliensis
+Peru;-3.749000;-73.2540000;scraping, aspiration,;Human ;PCR-RFLP;L. lainsoni
+Peru;-13.523000;-71.9670000;Biopsy ;Human ;Isoenzyme electrophoresis.;L. braziliensis
+Peru;-9.929300;-76.2390000;Scraping and filter paper impressions;Human ;PCR, IFI;L. amazonensis
+Peru;-12.043000;-77.0280000;scrapings, aspirates, and filter paper impressions;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.043000;-77.0280000;scrapings, aspirates, and filter paper impressions;Human ;PCR-RFLP;L. guyanensis
+Peru;-12.043000;-77.0280000;scrapings, aspirates, and filter paper impressions;Human ;PCR-RFLP;L. peruviana
+Peru;-12.043000;-77.0280000;Filter paper impressions;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.043000;-77.0280000;Filter paper impressions;Human ;PCR-RFLP;L. peruviana
+Peru;-12.043000;-77.0280000;Filter paper impressions;Human ;PCR-RFLP;L. guyanensis
+Peru;-12.043000;-77.0280000;Filter paper impressions;Human ;PCR-RFLP;L. lainsoni
+Peru;-12.043000;-77.0280000;Biopsy ;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.043000;-77.0280000;Biopsy ;Human ;PCR-RFLP;L. peruviana
+Peru;-12.043000;-77.0280000;Biopsy ;Human ;PCR-RFLP;L. guyanensis
+Peru;-12.593000;-69.1890000;Insect ;Sand fly;PCR;L. guyanensis
+Peru;-12.593000;-69.1890000;Insect ;Sand fly;PCR;L. braziliensis
+Peru;-15.216000;-73.9890000;Insect ;Sand fly;PCR, MLEE;L. peruviana
+Peru;-9.929000;-76.2390000;Scraping, biopsy ;Dog ;PCR, ELISA;L. peruviana
+Peru;-9.929000;-76.2390000;Insect ;Sand fly;PCR-RFLP;L. braziliensis
+Peru;-9.929000;-76.2390000;Insect ;Sand fly;PCR-RFLP;L. peruviana
+Peru;-12.043000;-77.0280000;Biopsy and aspirate;Human ;Isoenzyme electrophoresis.;L. braziliensis
+Peru;-12.043000;-77.0280000;Biopsy and aspirate;Human ;Isoenzyme electrophoresis.;L. guyanensis
+Peru;-12.043000;-77.0280000;Biopsy and aspirate;Human ;Isoenzyme electrophoresis.;L. peruviana
+Peru;-12.043000;-77.0280000;Biopsy and aspirate;Human ;Isoenzyme electrophoresis.;L. lainsoni
+Peru;-12.043000;-77.0280000;Biopsy and aspirate;Human ;Isoenzyme electrophoresis.;L. amazonensis
+Peru;-13.523000;-71.9670000;Biopsy and aspirate;Human ;Isoenzyme electrophoresis.;L. braziliensis
+Peru;-13.523000;-71.9670000;Biopsy and aspirate;Human ;Isoenzyme electrophoresis.;L. guyanensis
+Peru;-13.523000;-71.9670000;Biopsy and aspirate;Human ;Isoenzyme electrophoresis.;L. peruviana
+Peru;-13.523000;-71.9670000;Biopsy and aspirate;Human ;Isoenzyme electrophoresis.;L. lainsoni
+Peru;-13.523000;-71.9670000;Biopsy and aspirate;Human ;Isoenzyme electrophoresis.;L. amazonensis
+Peru;-12.043000;-77.0280000;No specific ;Human ;Isoenzyme electrophoresis.;L. peruviana
+Peru;-10.500000;-75.2500000;No specific ;Human ;Monoclonal antibodies;L. amazonensis
+Peru;-9.929000;-76.2390000;Aspirate;Human ;PCR-RFLP;L. braziliensis
+Peru;-9.929000;-76.2390000;Aspirate;Human ;PCR-RFLP;L. peruviana
+Peru;-9.929000;-76.2390000;Aspirate;Human ;PCR-RFLP;L. guyanensis
+Peru;-7.916000;-78.7110000;Insect ;Human, sand fly ;PCR-RFLP;L. peruviana
+Peru;-12.043000;-77.0280000;No specific ;Human ;Isoenzyme electrophoresis.;L. donovani
+Peru;-12.043000;-77.0280000;No specific ;Human ;Isoenzyme electrophoresis.;L. peruviana
+Peru;-12.043000;-77.0280000;No specific ;Human ;Isoenzyme electrophoresis.;L. braziliensis
+Peru;-12.043000;-77.0280000;No specific ;Human ;Isoenzyme electrophoresis.;L. infantum/chagasi
+Peru;-12.043000;-77.0280000;No specific ;Human ;Isoenzyme electrophoresis.;L. amazonensis
+Peru;-12.767000;-72.5780000;No specific ;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.767000;-72.5780000;No specific ;Human ;PCR-RFLP;L. guyanensis
+Peru;-12.043000;-77.0280000;Biopsy ;Human ;PCR-RFLP;L. peruviana
+Peru;-12.043000;-77.0280000;Biopsy ;Human ;PCR-RFLP;L. guyanensis
+Peru;-12.043000;-77.0280000;Biopsy ;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.043000;-77.0280000;Biopsy ;Human ;PCR-RFLP;L. lainsoni
+Peru;-12.043000;-77.0280000;Biopsy ;Human ;PCR-RFLP;L. mexicana
+Peru;-12.593000;-69.1890000;No specific ;Human ;Isoenzyme electrophoresis.;L. braziliensis
+Peru;-11.933000;-76.3600000;Insect;Sand fly ;PCR-RFLP;L. peruviana
+Peru;-8.567000;-77.6170000;Insect;Sand fly ;PCR, isoenzyme electrophoresis.;L. peruviana
+Peru;-8.567000;-77.6170000;Insect;Sand fly ;PCR, isoenzyme electrophoresis.;L. braziliensis
+Peru;-13.523000;-71.9670000;Filter paper impressions;Human ;PCR-RFLP;L. braziliensis
+Peru;-13.523000;-71.9670000;Filter paper impressions;Human ;PCR-RFLP;L. peruviana
+Peru;-12.043000;-77.0280000;Filter paper impressions;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.043000;-77.0280000;Filter paper impressions;Human ;PCR-RFLP;L. guyanensis
+Peru;-12.043000;-77.0280000;Filter paper impressions;Human ;PCR-RFLP;L. peruviana
+Peru;-12.043000;-77.0280000;Biopsy;Human ;PCR specific primers ;L. braziliensis
+Peru;-12.043000;-77.0280000;Biopsy;Human ;PCR specific primers ;L. peruviana
+Peru;-12.043000;-77.0280000;Biopsy;Human ;PCR specific primers ;L. guyanensis
+Peru;-12.043000;-77.0280000;Biopsy;Human ;PCR specific primers ;L. amazonensis
+Peru;-12.043000;-77.0280000;Biopsy;Human ;PCR specific primers ;L. lainsoni
+Peru;-12.043000;-77.0280000;Biopsy;Human ;PCR specific primers ;L. mexicana
+Peru;-12.593000;-69.1890000;Biopsy;Human ;PCR-RFLP;L. braziliensis
+Peru;-9.929300;-76.2390000;No specific ;Human, Dog ;Isoenzyme electrophoresis.;L. braziliensis
+Peru;-9.929300;-76.2390000;No specific ;Human, Dog ;Isoenzyme electrophoresis.;L. peruviana
+Peru;-8.567000;-77.6170000;Biopsy;Dog, Andean leaf-eared mouse, grass mice,house mouse, white-eared opossum, rat,  marsh rice rat, mouse opossums,;PCR, Isoenzyme electrophoresis.;L. peruviana
+Peru;-11.933000;-76.3600000;Insect;Sandfly;PCR-RFLP;L. peruviana
+Peru;-12.593000;-69.1890000;Insect;Sandfly;PCR specific primers, qPCR;L. braziliensis
+Peru;-12.593000;-69.1890000;Insect;Sandfly;PCR specific primers, qPCR;L. lainsoni
+Peru;-12.043000;-77.0280000;Biopsy;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.043000;-77.0280000;Biopsy;Human ;PCR-RFLP;L. peruviana
+Peru;-12.043000;-77.0280000;Filter paper impressions;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.043000;-77.0280000;Filter paper impressions;Human ;PCR-RFLP;L. peruviana
+Peru;-12.043000;-77.0280000;Filter paper impressions;Human ;PCR-RFLP;L. lainsoni
+Peru;-3.749000;-73.2540000;Aspirate,Biopsy,Scraping;Human ;qPCR;L. braziliensis
+Peru;-3.749000;-73.2540000;Aspirate,Biopsy,Scraping;Human ;qPCR;L. guyanensis
+Peru;-12.593000;-69.1890000;Biopsy;Human ;Isoenzyme electrophoresis.;L. braziliensis
+Peru;-12.865000;-72.6930000;Blood samples;Human ;PCR-ELISA;L. braziliensis
+Peru;-12.593000;-69.1890000;Insect ;Sandfly;PCR-RFLP;L. braziliensis
+Peru;-12.593000;-69.1890000;Insect ;Sandfly;PCR-RFLP;L. guyanensis
+Peru;-12.043000;-77.0280000;Biopsy;Human ;PCR specific primers ;L. braziliensis
+Peru;-12.043000;-77.0280000;Scraping, Aspirate, Filter paper impressions;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.043000;-77.0280000;Scraping, Aspirate, Filter paper impressions;Human ;PCR-RFLP;L. guyanensis
+Peru;-12.043000;-77.0280000;Scraping, Aspirate, Filter paper impressions;Human ;PCR-RFLP;L. peruviana
+Peru;-9.929300;-76.2390000;No specific ;Human ;Isoenzyme electrophoresis, MLEE;L. braziliensis
+Peru;-9.929300;-76.2390000;No specific ;Human ;Isoenzyme electrophoresis, MLEE;L. peruviana
+Peru;-12.043000;-77.0280000;Biopsy;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.043000;-77.0280000;Biopsy;Human ;PCR-RFLP;L. guyanensis
+Peru;-12.043000;-77.0280000;Biopsy;Human ;PCR-RFLP;L. peruviana
+Peru;-3.749000;-73.2540000;Filter paper impressions;Human ;PCR-RFLP;L. braziliensis
+Peru;-3.749000;-73.2540000;Filter paper impressions;Human ;PCR-RFLP;L. lainsoni
+Peru;-12.043000;-77.0280000;No specific ;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.593000;-69.1890000;Scraping, Aspirate;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.593000;-69.1890000;Scraping, Aspirate;Human ;PCR-RFLP;L. guyanensis
+Peru;-12.593000;-69.1890000;Scraping, Aspirate;Human ;PCR-RFLP;L. lainsoni
+Peru;-12.593000;-69.1890000;Scraping, Aspirate;Human ;PCR-RFLP;L. shawi
+Peru;-9.929300;-76.2390000;Bone marrow, blood sample;Dog ;PCR specific primers ;L. braziliensis
+Peru;-9.929300;-76.2390000;Bone marrow, blood sample;Dog ;PCR specific primers ;L. peruviana
+Peru;-12.043000;-77.0280000;Aspirate, scraping,filter paper impressions;Human ;PCR-RFLP;L. tropica
+Peru;-12.043000;-77.0280000;Aspirate, scraping,filter paper impressions;Human ;PCR-RFLP;L. panamensis
+Peru;-12.043000;-77.0280000;Aspirate, scraping,filter paper impressions;Human ;PCR-RFLP;L. infantum/chagasi
+Peru;-12.043000;-77.0280000;Aspirate, scraping,filter paper impressions;Human ;PCR-RFLP;L. infantum/chagasi
+Peru;-12.043000;-77.0280000;Aspirate, scraping,filter paper impressions;Human ;PCR-RFLP;L. major
+Peru;-12.043000;-77.0280000;Aspirate, scraping,filter paper impressions;Human ;PCR-RFLP;L. braziliensis
+Peru;-12.043000;-77.0280000;Aspirate, scraping,filter paper impressions;Human ;PCR-RFLP;L. guyanensis
+Peru;-10.928000;-74.8720000;Filter paper impressions;Human ;PCR specific primers ;L. braziliensis
+Peru;-10.928000;-74.8720000;Filter paper impressions;Human ;PCR specific primers ;L. guyanensis
+Brasil;-1.5107945;-48.6190679;insect;Phlebotomus;PCR;L. infantum/chagasi
+Brasil;-10.943145;-62.8277863;Biopsy;Human;Real-time PCR;L. braziliensis
+Brasil;-10.943145;-62.8277863;Biopsy;Human;Real-time PCR;L. infantum/chagasi
+Brasil;-24.4842187;-51.8148872;Blood;Dog;PCR and RAPD-PCR;L. braziliensis
+Brasil;-24.4842187;-51.8148872;Blood;Dog;PCR and RAPD-PCR;L. infantum/chagasi
+Brasil;-12.285251;-41.9294776;Blood;Human;;L. amazonensis
+Brasil;-15.5986686;-56.0991301;Blood and Biopsy;Dog;PCR;L. infantum/chagasi
+Brasil;-22.9110137;-43.2093727;Biopsy;Human;Isoenzyme electrophoresis;L. amazonensis
+Brasil;-22.9110137;-43.2093727;Biopsy;Human;Isoenzyme electrophoresis;L. braziliensis
+Brasil;-4.3290203;-38.8821055;Insect;Phlebotomus;Isoenzyme electrophoresis;L. braziliensis
+Brasil;-24.4842187;-51.8148872;Blood;Human;PCR;L. braziliensis
+Brasil;-23.5506507;-46.6333824;Biopsy;Dog;qPCR;L. infantum/chagasi
+Brasil;-2.1303959;-45.8900498;Insect;Mosquito;PCR;L. braziliensis
+Brasil;-2.1303959;-45.8900498;Insect;Mosquito;PCR;L. amazonensis
+Brasil;-29.9407972;-51.7191859;Biopsy;Human;PCR;L. braziliensis
+Brasil;-19.9227318;-43.9450948;Biopsy ;Dog;Real time PCR;L. infantum/chagasi
+Brasil;-20.4640173;-54.6162947;Insect;Phlebotomus;Real time PCR;L. infantum/chagasi
+Brasil;-20.1433333;-44.19972222;Biopsy;Roedor;PCR-RFLP;L. braziliensis
+Brasil;-20.1433333;-44.19972222;Biopsy;Roedor;PCR-RFLP;L. infantum/chagasi
+Brasil;-19.0375;-57.1425;Insect;Phlebotomus;PCR multiplex assay;L. infantum/chagasi
+Brasil;-11.8259639;-46.632475;Biopsy;Roedor;PCR;L. shawi
+Brasil;-21.6105444;-55.16776667;Biopsy;Roedor;PCR;L. naiffi
+Brasil;-23.5506507;-46.6333824;Biopsy;Human;PCR;L. amazonensis
+Brasil;-20.5964;-53.5438;Biopsy;Cat;indirect immunofluorescence reaction;L. amazonensis
+Brasil;-3.3485276;-64.7102278;Insect;Sand fly;PCR-RFLP;L. lainsoni
+Brasil;-9.9863889;-67.83111111;Insect;Sand fly;PCR;L. braziliensis
+Brasil;-19.7901;-42.1405;Biopsy;Human;PCR;L. braziliensis
+Brasil;-24.4842187;-51.8148872;Biopsy;Human;Isoenzyme electrophoresis;L. braziliensis
+Brasil;-1.64338;-55.6093;Blood;Armadillo;Isoenzyme electrophoresis;L. naiffi
+Brasil;-3.73045;-38.5218;Insect;Phlebotomus;qPCR;L. infantum/chagasi
+Brasil;-1.64338;-55.6093;Insect;Phlebotomus;PCR;L. braziliensis
+Brasil;-13.8604;-40.072;Blood and Biopsy;Dog;qPCR;L. infantum/chagasi
+Brasil;-8.373925;-35.4536527;Biopsy;Human;PCR;L. braziliensis
+Brasil;-21.7609533;-43.3501129;Blood;Dog;PCR;L. infantum/chagasi
+Brasil;-9.9863889;-67.83111111;Insect;Mosquito;PCR;L. braziliensis
+Brasil;-19.9227318;-43.9450948;Biopsy;Horse;PCR;L. infantum/chagasi
+Brasil;-20.464;-54.6163;Blood;Bat;PCR;L. braziliensis
+Brasil;-18.5264844;-44.1588654;Biopsy;Cat;PCR;L. infantum/chagasi
+Brasil;-19.5852564;-54.4794731;Biopsy;Dog;Isoenzyme electrophoresis;L. infantum/chagasi
+Brasil;-19.5852564;-54.4794731;Necropsy;Dog;PCR-RFLP;L. braziliensis
+Brasil;-19.5852564;-54.4794731;Biopsy;Human;PCR;L. amazonensis
+Brasil;-22.9665038;-43.3713193;Insect;Phlebotomus;PCR;L. braziliensis
+Brasil;-22.911;-43.2094;Biopsy;Human;LSSP-PCR;L. braziliensis
+Brasil;-29.6375;-50.9255;Biopsy;Fox and dog;PCR-RFLP;L. infantum/chagasi
+Brasil;-10;-55;Biopsy;Bat;PCR-RFLP;L. braziliensis
+Brasil;-23.5017;-47.4581;Biopsy;Human;PCR;L. braziliensis
+Brasil;-2.43849;-54.6996;Biopsy;Human;PCR;L. braziliensis
+Brasil;-19.0016365;-57.6534316;Insect;Phlebotomus;PCR;L. amazonensis
+Brasil;-20.4640173;-54.6162947;Biopsy;Opossums;PCR;L. infantum/chagasi
+Brasil;-19.5852564;-54.4794731;Biopsy;Human;PCR;L. infantum/chagasi
+Brasil;-15.645816;-56.132218;Insect;Phlebotomus;PCR-RFLP;L. infantum/chagasi
+Brasil;-24.4842187;-51.8148872;Insect;Phlebotomus;Isoenzyme electrophoresis;L. braziliensis
+Brasil;-1.721828;-48.878843;Biopsy;collared anteater;PCR;L. infantum/chagasi
+Brasil;-19.9227;-43.9451;Biopsy;Dog, rodents;Nested PCR;L. infantum/chagasi
+Brasil;-19.9227;-43.9451;Biopsy;Dog, rodents;Nested PCR;L. braziliensis
+Brasil;-8.8;-36.23333;Insect;phlebotomus;PCR;L. infantum/chagasi
+Brasil;-22.6620892;-50.420623;Biopsy;Human;PCR;L. braziliensis
+Brasil;-22.6620892;-50.420623;Biopsy;Human;PCR;L. shawi
+Brasil;-20.464;-54.6163;Blood and Biopsy;Cat;PCR-RFLP;L. infantum/chagasi
+Brasil;-8.37566;-65.8118;Insect;Sandfly;PCR;L. braziliensis
+Brasil;-8.37566;-65.8118;Insect;Sandfly;PCR;L. amazonensis
+Brasil;-20.894761;-51.378568;Blood;Cat;PCR;L. infantum/chagasi
+Brasil;-19.9227;-43.9451;Blood and Biopsy;Dog;PCR-RFLP and qPCR;L. infantum/chagasi
+Brasil;-19.9227;-43.9451;Blood and Biopsy;Dog;PCR-RFLP and qPCR;L. braziliensis
+Brasil;-11.0010413;-68.7487894;Biopsy;Human;PCR-RFLP;L. guyanensis
+Brasil;-11.0010413;-68.7487894;Biopsy;Human;PCR-RFLP;L. braziliensis
+Brasil;-22.3218102;-49.0705863;Blood;Spider monkey;PCR-RFLP;L. amazonensis
+Brasil;-10.2429203;-54.9919857;Biopsy;Rodents;PCR-RFLP;L. braziliensis
+Brasil;-18.0262536;-44.79198556;Insect;Phlebotomus;PCR;L. infantum/chagasi
+Brasil;-26.7797222;-48.69583333;Insect;Phlebotomus;PCR;L. braziliensis
+Brasil;-22.1892837;-55.9508227;Insect;Phlebotomus;PCR;L. infantum/chagasi
+Brasil;-25.4296;-49.2713;Biopsy and Blood;Guinea pigs;Isoenzyme electrophoresis;L. enriettii
+Brasil;-8.4116316;-37.5919699;Biopsy;Human;Monoclonal antibodies;L. braziliensis
+Brasil;-20.443;-54.646;Biopsy;Human ;Isoenzyme electrophoresis.;L. amazonensis
+Brasil;-23.548;-46.636;Biopsy;Human ;PCR-RFLP ;L. braziliensis
+Brasil;-23.548;-46.636;Biopsy;Human ;PCR-RFLP ;L. amazonensis
+Brasil;-19.921;-43.938;Biopsy, necropsy;Dog ;IFAT;L. infantum/chagasi
+Brasil;-22.906;-43.182;Necropsy;Dog ;PCR specific primers ;L. braziliensis
+Brasil;-23.548;-46.636;Biopsy;Dog ;PCR specific primers ;L. infantum/chagasi
+Brasil;-16.85;-42.07;Biopsy, blood sample;Common punaré, marsh rice rat, Spix's yellow-toothed cavy, hairy-tailed bolo mouse, Red-nosed mouse ;PCR specific primers ;L. braziliensis
+Brasil;-16.85;-42.07;Biopsy, blood sample;Common punaré, marsh rice rat, Spix's yellow-toothed cavy, hairy-tailed bolo mouse, Red-nosed mouse ;PCR specific primers ;L. mexicana
+Brasil;-16.85;-42.07;Biopsy, blood sample;Common punaré, marsh rice rat, Spix's yellow-toothed cavy, hairy-tailed bolo mouse, Red-nosed mouse ;PCR specific primers ;L. donovani
+Brasil;-19.921;-43.938;Biopsy;Human ;PCR-RFLP ;L. braziliensis
+Brasil;-19.921;-43.938;Biopsy;Human ;PCR-RFLP ;L. amazonensis
+Brasil;-23.548;-46.636;Necropsy ;Dog ;qPCR;L. amazonensis
+Brasil;-23.548;-46.636;Necropsy ;Dog ;qPCR;L. infantum/chagasi
+Brasil;-13.084;-56.087;Insect ;Sandfly;LnPCR;L. braziliensis
+Brasil;-13.084;-56.087;Insect ;Sandfly;LnPCR;L. guyanensis
+Brasil;-3.102;-60.025;Biopsy;Human ;PCR-RFLP ;L. braziliensis
+Brasil;-3.102;-60.025;Biopsy;Human ;PCR-RFLP ;L. guyanensis
+Brasil;-22.906;-43.182;Biopsy;Dog ;Isoenzyme electrophoresis, IFAT;L. braziliensis
+Brasil;-2.967;-47.483;Insect ;Sandfly;Monoclonal antibodies;L. braziliensis
+Brasil;-18.851;-41.949;Blood samples;Brown rat;LnPCR;L. infantum/chagasi
+Brasil;-20.464;-54.616;Blood samples;Opossums;PCR;L. infantum/chagasi
+Brasil;-20.464;-54.616;Insect ;Sandfly;PCR-RFLP ;L. braziliensis
+Brasil;-20.464;-54.616;Biopsy;Lion;PCR-RFLP ;L. infantum/chagasi
+Brasil;-23.548;-46.636;No specific ;Domestic cat;PCR;L. infantum/chagasi
+Brasil;-21.209;-50.433;Biopsy, aspirate;Dog ;IFAT;L. amazonensis
+Brasil;-19.921;-43.938;Insect ;Sandfly;PCR-RFLP ;L. infantum/chagasi
+Brasil;-3.102;-60.025;Biopsy;Opossum;Isoenzyme electrophoresis.;L. braziliensis
+Brasil;-15.596;-56.097;Blood samples, biopsy;Dog ;Isoenzyme electrophoresis.;L. infantum/chagasi
+Venezuela;6.249840;-67.378390;;;;L. donovani
+Venezuela;6.249840;-67.378390;;;;L. colombiensis
+Venezuela;6.249840;-67.378390;;;;L. braziliensis
+Brasil;-8.783952;-63.8564990;Biopsy;Human;PCR;L. lindenbergi
